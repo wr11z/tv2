@@ -8,50 +8,77 @@ https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-id="3" tvg-name="Kanade" group-title="A",Kanade 
 https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH
 
-#EXTINF:-1 tvg-id="4" tvg-name="Energeek" group-title="A",Energeek
+#EXTINF:-1 tvg-id="4" tvg-name="Anime Onegai" group-title="A",Anime Onegai 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10935
+
+#EXTINF:-1 tvg-id="5" tvg-name="Anime Onegai accion" group-title="A",Anime Onegai accion
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10931
+
+#EXTINF:-1 tvg-id="6" tvg-name="Xtrema Cartoons" group-title="A",Xtrema Cartoons 
+https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
+
+#EXTINF:-1 tvg-id="7" tvg-name="Energeek" group-title="A",Energeek
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
 
-#EXTINF:-1 tvg-id="5" tvg-name="Tiguerito TV" group-title="A",Tiguerito TV
+#EXTINF:-1 tvg-id="8" tvg-name="Tiguerito TV" group-title="A",Tiguerito TV
 https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6" tvg-name="ZAZ TV" group-title="A",ZAZ TV
+#EXTINF:-1 tvg-id="9" tvg-name="ZAZ TV" group-title="A",ZAZ TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=16110&live=1&avod=0&hls_marker=1&pod_duration=120&ssai_enabled=1&content_network=streamingconnect&position=preroll&app_bundle=com.streamingconnect.viva&app_domain=mirametv.live&app_category=linear_tv&content_cat=IAB9-11,IAB1-7,IAB1&content_channel=zaztv&content_genre=tv_broadcaster&content_rating=TV-G&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&ifa_type=[IFA_TYPE]&content_id=mirametv_live&min_ad_duration=6&max_ad_duration=120
 
-#EXTINF:-1 tvg-id="7" tvg-name="Runtime" group-title="B",Runtime
-https://run-rt-uh.otteravision.com/run/rt_uh/rt_uh_720.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="Guaymate Tv" group-title="B",Guaymate Tv
+https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="8" tvg-name="TodoCine" group-title="B",TodoCine
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
-
-#EXTINF:-1 tvg-id="9" tvg-name="Clan" group-title="B",Clan
+#EXTINF:-1 tvg-id="11" tvg-name="Clan" group-title="B",Clan
 https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x6uutpgph4tpt/ClanES.m3u8
 
-#EXTINF:-1 tvg-id="10" tvg-name="MyTime" group-title="B",MyTime
+#EXTINF:-1 tvg-id="12" tvg-name="Runtime" group-title="B",Runtime
+https://run-rt-uh.otteravision.com/run/rt_uh/rt_uh_720.m3u8
+
+#EXTINF:-1 tvg-id="13" tvg-name="TodoCine" group-title="B",TodoCine
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
+
+#EXTINF:-1 tvg-id="14" tvg-name="MyTime" group-title="B",MyTime
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="11" tvg-name="Cine Sony" group-title="B",Cine Sony
+#EXTINF:-1 tvg-id="15" tvg-name="MyTime Movie" group-title="B",MyTime Movie
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="16" tvg-name="Cine Sony" group-title="B",Cine Sony
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="12" tvg-name="Next HD" group-title="B",Next HD
+#EXTINF:-1 tvg-id="17" tvg-name="Next HD" group-title="B",Next HD
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
-#EXTINF:-1 tvg-id="13" tvg-name="Rakuten TV Family Movies Spain" group-title="C",Rakuten TV Family Movies Spain
+#EXTINF:-1 tvg-id="18" tvg-name="Rakuten TV Family Movies Spain" group-title="C",Rakuten TV Family Movies Spain
 https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8
 
-#EXTINF:-1 tvg-id="14" tvg-name="Rakuten TV Action Movies Spain" group-title="C",Rakuten TV Action Movies Spain
+#EXTINF:-1 tvg-id="19" tvg-name="Rakuten TV Action Movies Spain" group-title="C",Rakuten TV Action Movies Spain
 https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
 
-#EXTINF:-1 tvg-id="15" tvg-name="Rakuten TV Comedy Movies Spain" group-title="C",Rakuten TV Comedy Movies Spain
+#EXTINF:-1 tvg-id="20" tvg-name="Rakuten TV Comedy Movies Spain" group-title="C",Rakuten TV Comedy Movies Spain
 https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8
 
-#EXTINF:-1 tvg-id="16" tvg-name="Rakuten TV Drama Movies Spain" group-title="C",Rakuten TV Drama Movies Spain
+#EXTINF:-1 tvg-id="21" tvg-name="Rakuten TV Drama Movies Spain" group-title="C",Rakuten TV Drama Movies Spain
 https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8
 
-#EXTINF:-1 tvg-id="17" tvg-name="Rakuten TV Top Movies Spain" group-title="C",Rakuten TV Top Movies Spain
+#EXTINF:-1 tvg-id="22" tvg-name="Rakuten TV Top Movies Spain" group-title="C",Rakuten TV Top Movies Spain
 https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
 
-#EXTINF:-1 tvg-id="18" tvg-name="Vive Kanal D Drama" group-title="C",Vive Kanal D Drama
+#EXTINF:-1 tvg-id="23" tvg-name="Vive Kanal D Drama" group-title="C",Vive Kanal D Drama
 https://thema-vivekanald-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="19" tvg-name="National Geographic Latin America" group-title="D",National Geographic Latin America
+#EXTINF:-1 tvg-id="24" tvg-name="National Geographic Latin America" group-title="D",National Geographic Latin America
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
+
+#EXTINF:-1 tvg-id="25" tvg-name="Electric Now spanish" group-title="E",Electric Now spanish
+https://s8host2.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config10/playlist.m3u8?ads.cdnhost=s8host2.localnow.api.cms.amdvids.com&ads.playbackid=56D5091D-B42A-4A99-8C50-6DBF198F0C49&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=56D5091D-B42A-4A99-8C50-6DBF198F0C49&ads.n4=content_name&ads.v4=Electric%20Now%20en%20Espanol&ads.n21=h&ads.v21=1080&ads.n22=content_provider&ads.v22=electricnow-en-espanol&ads.n23=ua&ads.v23=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n24=content_type&ads.v24=channel&ads.n25=channel_rating&ads.v25=TV-PG&ads.n26=content_custom_2_param&ads.v26=AMDB013335&ads.n27=app_bundle&ads.v27=&ads.n28=content_livestream&ads.v28=1&ads.n29=device_model&ads.v29=&ads.n30=channel_corp&ads.v30=Electric%20Entertainment&ads.n31=app_store_url&ads.v31=&ads.n32=channel_id&ads.v32=56D5091D-B42A-4A99-8C50-6DBF198F0C49&ads.n33=cust_devicename&ads.v33=desktop_web&ads.n34=channel_brand_id&ads.v34=AMDB013335&ads.n35=w&ads.v35=1920&ads.n36=channel_company_id&ads.v36=AMDP500133&ads.n37=dnt&ads.v37=&ads.n38=channel_ext_id&ads.v38=&ads.n39=channel_language&ads.v39=es&ads.n40=device_make&ads.v40=&ads.n41=pos&ads.v41=midroll&ads.n42=app_version&ads.v42=0.0.0&ads.n43=device_type&ads.v43=&ads.n44=content_custom_3_param&ads.v44=channel&ads.n45=app_name&ads.v45=&ads.n46=ip&ads.v46=195.179.200.80&ads.n47=channel_title&ads.v47=Electric%20Now%20en%20Espanol&ads.n48=content_custom_1_param&ads.v48=56D5091D-B42A-4A99-8C50-6DBF198F0C49&ads.n49=gpp&ads.v49=&ads.n50=gpp_sid&ads.v50=&ads.n51=channel_genre&ads.v51=Entertainment&ads.n52=ifa_type&ads.v52=&ads.n53=us_privacy&ads.v53=1YNY&ads.n54=network_name&ads.v54=electricnow-en-espanol&ads.n55=did&ads.v55=&ads.n56=channel_name&ads.v56=Electric%20Now%20en%20Espanol&ads.n57=content_producer_name&ads.v57=Electric%20Entertainment&ads.n58=url&ads.v58=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal
+
+#EXTINF:-1 tvg-id="26" tvg-name="Artflix spanish" group-title="E",Artflix spanish
+https://amogonetworx-artflix-3-es.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="27" tvg-name="AMC spanish" group-title="E",AMC spanish
+https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="28" tvg-name="CLIC TV" group-title="E",CLIC TV
+https://amg00658-amg00658c59-canelatv-international-5440.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-clictvaztecaappta-canelatvinternational/playlist.m3u8
