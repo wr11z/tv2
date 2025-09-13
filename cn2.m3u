@@ -71,7 +71,7 @@ https://magicstream.ddns.net:443/magicstream/stream.m3u8
 #EXTINF:-1 tvg-id="24" tvg-name="TaltalTV Peliculas Anime | SUB" group-title="a.Animacion",TaltalTV Peliculas Anime | SUB
 https://live20.bozztv.com/akamaissh101/ssh101/taltal/chunks.m3u8
 
-#EXTINF:-1 tvg-id="25" tvg-name="TaltalTV Series Anime | SUB" group-title="a.Animacion"TaltalTV Series Anime | SUB
+#EXTINF:-1 tvg-id="25" tvg-name="TaltalTV Series Anime | SUB" group-title="a.Animacion",TaltalTV Series Anime | SUB
 https://giatv.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/playlist.m3u8
 
 #EXTINF:-1 tvg-id="26" tvg-name="Esports Max | LAT" group-title="a.Animacion",Esports Max | LAT
