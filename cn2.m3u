@@ -20,13 +20,13 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=10933
 #EXTINF:-1 tvg-id="7" tvg-name="Anime Onegai Deporte | LAT" group-title="a.Animacion",Anime Onegai Deporte | LAT
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10932
 
-#EXTINF:-1 tvg-id="8" tvg-name="Anime Onegai | LAT" group-title="a.Animacion",Anime Onegai | LAT
+#EXTINF:-1 tvg-id="8" tvg-name="Anime Onegai Comedia | LAT" group-title="a.Animacion",Anime Onegai Comedia | LAT
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10934
 
-#EXTINF:-1 tvg-id="9" tvg-name="Anime Onegai 2 | LAT" group-title="a.Animacion",Anime Onegai 2 | LAT
+#EXTINF:-1 tvg-id="9" tvg-name="Anime Onegai | LAT" group-title="a.Animacion",Anime Onegai | LAT
 https://d2se29pyn6ypkx.cloudfront.net/v1/master/964e44f31073da95414e409f230fb47a468175f5/6469fafa-ca3b-40cd-b903-ab9c3eeea757/6469fafa-ca3b-40cd-b903-ab9c3eeea757/playlist.m3u8
 
-#EXTINF:-1 tvg-id="10" tvg-name="Anime Onegai Comedia | LAT" group-title="a.Animacion",Anime Onegai Comedia | LAT
+#EXTINF:-1 tvg-id="10" tvg-name="Anime Onegai Comedia 2 | LAT" group-title="a.Animacion",Anime Onegai Comedia 2 | LAT
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11060
 
 #EXTINF:-1 tvg-id="11" tvg-name="Anime Onegai Accion 2 | LAT" group-title="a.Animacion",Anime Onegai Accion 2 | LAT
@@ -35,7 +35,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11057
 #EXTINF:-1 tvg-id="12" tvg-name="Anime Onegai Sci-Fi 2 | LAT" group-title="a.Animacion",Anime Onegai Sci-Fi 2 | LAT
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11061
 
-#EXTINF:-1 tvg-id="13" tvg-name="Anime Onegai Deporte | LAT" group-title="a.Animacion",Anime Onegai Deporte | LAT
+#EXTINF:-1 tvg-id="13" tvg-name="Anime Onegai Deporte 2 | LAT" group-title="a.Animacion",Anime Onegai Deporte 2 | LAT
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11058
 
 #EXTINF:-1 tvg-id="14" tvg-name="ZTV Invasiva Media | LAT | FHD" group-title="a.Animacion",ZTV Invasiva Media | LAT | FHD
@@ -298,3 +298,9 @@ https://vdo2.streamgato.us:3670/live/orbittvlive.m3u8
 
 #EXTINF:-1 tvg-id="100" tvg-name="Su Mundo TV | 🇩🇴 +1.DO | FHD" group-title="e.Nacionales 2",Su Mundo TV | 🇩🇴 +1.DO | FHD
 https://175036.global.ssl.fastly.net/6217e980d5bee0e090792fdf/live_75f5635097ba11ecb9f1255c8fe65a34/index.m3u8
+
+#EXTINF:-1 tvg-id="101" tvg-name="ETC | LAT" group-title="a.Animacion",ETC | LAT
+http://45.181.122.46:8090/play/a00t
+
+#EXTINF:-1 tvg-id="102" tvg-name="AniFun | LAT" group-title="a.Animacion",AniFun | LAT
+https://live20.bozztv.com/giatv/giatv-FunTVEste/FunTVEste/playlist.m3u8
