@@ -20,7 +20,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=10933
 #EXTINF:-1 tvg-id="7" tvg-name="Anime Onegai Deporte | LAT" group-title="a.Animacion",Anime Onegai Deporte | LAT
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10932
 
-#EXTINF:-1 tvg-id="8" tvg-name="Anime Onegai Comedia | LAT" group-title="a.Animacion",Anime Onegai Comedia | LAT
+#EXTINF:-1 tvg-id="8" tvg-name="Anime Onegai Comedia | LAT" group-title="a.Animacion",Anime Onegai Comedia| LAT
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10934
 
 #EXTINF:-1 tvg-id="9" tvg-name="Anime Onegai | LAT" group-title="a.Animacion",Anime Onegai | LAT
@@ -299,8 +299,32 @@ https://vdo2.streamgato.us:3670/live/orbittvlive.m3u8
 #EXTINF:-1 tvg-id="100" tvg-name="Su Mundo TV | 🇩🇴 +1.DO | FHD" group-title="e.Nacionales 2",Su Mundo TV | 🇩🇴 +1.DO | FHD
 https://175036.global.ssl.fastly.net/6217e980d5bee0e090792fdf/live_75f5635097ba11ecb9f1255c8fe65a34/index.m3u8
 
-#EXTINF:-1 tvg-id="101" tvg-name="ETC | LAT" group-title="a.Animacion",ETC | LAT
-http://45.181.122.46:8090/play/a00t
-
-#EXTINF:-1 tvg-id="102" tvg-name="AniFun | LAT" group-title="a.Animacion",AniFun | LAT
+#EXTINF:-1 tvg-id="101" tvg-name="AniFun | LAT" group-title="a.Animacion",AniFun | LAT
 https://live20.bozztv.com/giatv/giatv-FunTVEste/FunTVEste/playlist.m3u8
+
+#EXTINF:-1 tvg-id="102" tvg-name="CineCanal | LAT" group-title="b.Series-Peliculas",CineCanal | LAT
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
+
+#EXTINF:-1 tvg-id="103" tvg-name="Ciudad Magazine | 🇦🇷 +2.AR | FHD" group-title="e.Nacionales 2",Ciudad Magazine | 🇦🇷 +2.AR | FHD
+https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+
+#EXTINF:-1 tvg-id="104" tvg-name="Neo TV | 🇦🇷 +2.AR" group-title="e.Nacionales 2",Neo TV | 🇦🇷 +2.AR
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+#EXTINF:-1 tvg-id="105" tvg-name="TeleVer | 🇩🇴 +1.DO | n24-7 | FHD" group-title="e.Nacionales 2",TeleVer | 🇩🇴 +1.DO | n24-7 | FHD
+https://soportedvb.click:3413/live/televerlive.m3u8
+
+#EXTINF:-1 tvg-id="106" tvg-name="Sol TV | 🇬🇹 -1.GT" group-title="e.Nacionales 2",Sol TV | 🇬🇹 -1.GT
+https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
+
+#EXTINF:-1 tvg-id="107" tvg-name="Via Altomayo | 🇵🇪 -0.PE" group-title="e.Nacionales 2",Via Altomayo | 🇵🇪 -0.PE
+https://live.obslivestream.com/viaaltomayomux/index.m3u8
+
+#EXTINF:-1 tvg-id="108" tvg-name="Opinion Sur Cine | 🇨🇱 +1.CL | FHD" group-title="e.Nacionales 2",Opinion Sur Cine | 🇨🇱 +1.CL | FHD
+https://live20.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="109" tvg-name="Antares | 🇵🇪 -0.PE" group-title="e.Nacionales 2",Antares | 🇵🇪 -0.PE
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/.m3u8
+
+#EXTINF:-1 tvg-id="110" tvg-name="Hechicera | 🇵🇪 -0.PE" group-title="e.Nacionales 2",Hechicera | 🇵🇪 -0.PE
+https://video.misistemareseller.com/corporationhc/corporationhc/playlist.m3u8
