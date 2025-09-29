@@ -74,131 +74,131 @@ https://giatv.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/playlis
 #EXTINF:-1 tvg-id="25" tvg-name="ZTV Invasiva Media | LAT | FHD" group-title="a.Animacion",ZTV Invasiva Media | LAT | FHD
 https://tv.invasivamedia.com/hls/limtv.m3u8 
 
-#EXTINF:-1 tvg-id="26" tvg-name="Esports Max | LAT" group-title="a.Animacion",Esports Max | LAT
-https://streamyes.alsolnet.com/esportsmax/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="27" tvg-name="Sony Channel | LAT" group-title="b.Series-Peliculas",Sony Channel | LAT
-https://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
-
-#EXTINF:-1 tvg-id="28" tvg-name="Sony One Cinema | LAT | FHD" group-title="b.Series-Peliculas",Sony One Cinema | LAT | FHD
-https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="29" tvg-name="Cine Sony | LAT" group-title="b.Series-Peliculas",Cine Sony | LAT
-https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="30" tvg-name="Studio Universal | LAT" group-title="b.Series-Peliculas",Studio Universal | LAT
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/index.m3u8
-
-#EXTINF:-1 tvg-id="31" tvg-name="Xumo | LAT" group-title="b.Series-Peliculas",Xumo | LAT
-https://d6b383jzkrtyn.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992262&ads.caid=PeliculasGratis&ads.csid=lgchannels_[COUNTRY]_XumoPeliculasGratis_ssai&ads.lat=&ads.lon=&ads.os=webOS&ads.osv=&ads.xumo_platform=lg&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_content_category=IAB1-7&ads._fw_content_genre=Movies&ads._fw_content_language=es&ads._fw_content_rating=TV-PG&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_gdpr=[GDPR]&ads._fw_gdpr_consent=[GDPR_CONSENT]&ads._fw_h_x_country=[COUNTRY]&ads.appName=[APP_NAME]&ads.xumo_contentId=5&ads.xumo_contentName=XumoAggregate&ads.xumo_providerId=5&ads.xumo_providerName=XumoAggregate&ads.channelId=99992262&ads.xumo_imdb_genre=Action%252CAdventure%252CComedy%252CCrime%252CDrama%252CFamily%252CFantasy%252CHorror%252CMystery%252CRomance%252CSci-Fi%252CThriller%252CWar%252CWestern%252CSuperhero&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_app_bundle=[APP_BUNDLE]&ads.appVersion=[APP_VERSION]&ads.amznappId=61009c470a264b7c8322f1c45792cc5c&ads.amznslotId=9c67d46e-238a-49e6-a34f-f50fe8eed913&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
-
-#EXTINF:-1 tvg-id="32" tvg-name="MyTime | ESP" group-title="b.Series-Peliculas",MyTime | ESP
-https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="33" tvg-name="MyTime Movie | LAT" group-title="b.Series-Peliculas",MyTime Movie | LAT
-https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="34" tvg-name="Electric Now | LAT" group-title="b.Series-Peliculas",Electric Now | LAT
-https://s8host2.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config10/playlist.m3u8?ads.cdnhost=s8host2.localnow.api.cms.amdvids.com&ads.playbackid=56D5091D-B42A-4A99-8C50-6DBF198F0C49&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=56D5091D-B42A-4A99-8C50-6DBF198F0C49&ads.n4=content_name&ads.v4=Electric%20Now%20en%20Espanol&ads.n21=h&ads.v21=1080&ads.n22=content_provider&ads.v22=electricnow-en-espanol&ads.n23=ua&ads.v23=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n24=content_type&ads.v24=channel&ads.n25=channel_rating&ads.v25=TV-PG&ads.n26=content_custom_2_param&ads.v26=AMDB013335&ads.n27=app_bundle&ads.v27=&ads.n28=content_livestream&ads.v28=1&ads.n29=device_model&ads.v29=&ads.n30=channel_corp&ads.v30=Electric%20Entertainment&ads.n31=app_store_url&ads.v31=&ads.n32=channel_id&ads.v32=56D5091D-B42A-4A99-8C50-6DBF198F0C49&ads.n33=cust_devicename&ads.v33=desktop_web&ads.n34=channel_brand_id&ads.v34=AMDB013335&ads.n35=w&ads.v35=1920&ads.n36=channel_company_id&ads.v36=AMDP500133&ads.n37=dnt&ads.v37=&ads.n38=channel_ext_id&ads.v38=&ads.n39=channel_language&ads.v39=es&ads.n40=device_make&ads.v40=&ads.n41=pos&ads.v41=midroll&ads.n42=app_version&ads.v42=0.0.0&ads.n43=device_type&ads.v43=&ads.n44=content_custom_3_param&ads.v44=channel&ads.n45=app_name&ads.v45=&ads.n46=ip&ads.v46=195.179.200.80&ads.n47=channel_title&ads.v47=Electric%20Now%20en%20Espanol&ads.n48=content_custom_1_param&ads.v48=56D5091D-B42A-4A99-8C50-6DBF198F0C49&ads.n49=gpp&ads.v49=&ads.n50=gpp_sid&ads.v50=&ads.n51=channel_genre&ads.v51=Entertainment&ads.n52=ifa_type&ads.v52=&ads.n53=us_privacy&ads.v53=1YNY&ads.n54=network_name&ads.v54=electricnow-en-espanol&ads.n55=did&ads.v55=&ads.n56=channel_name&ads.v56=Electric%20Now%20en%20Espanol&ads.n57=content_producer_name&ads.v57=Electric%20Entertainment&ads.n58=url&ads.v58=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal
-
-#EXTINF:-1 tvg-id="35" tvg-name="ArtFlix | LAT" group-title="b.Series-Peliculas",ArtFlix | LAT
-https://amogonetworx-artflix-3-es.lg.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="36" tvg-name="AMC | LAT" group-title="b.Series-Peliculas",AMC | LAT
-https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="37" tvg-name="FilmRise | LAT" group-title="b.Series-Peliculas",FilmRise | LAT
-https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889309
-
-#EXTINF:-1 tvg-id="38" tvg-name="Frecuencia Musical TV | LAT" group-title="b.Series-Peliculas",Frecuencia Musical TV | LAT
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=13014
-
-#EXTINF:-1 tvg-id="39" tvg-name="Butaca TV | LAT" group-title="b.Series-Peliculas",Butaca TV | LAT
-https://linear-842.frequency.stream/dist/tcltv/842/hls/master/playlist.m3u8?ads.dnt=DNT&ads.ic=IC&ads.duration=DURATION&ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.device_id=DID&ads.device_make=DEVICE_MAKE&ads.device_model=DEVICE_MODEL&ads.brand_name=BRAND_NAME&ads.ifa_type=IFA_TYPE&ads.gdpr_consent=GDPR_CONSENT&ads.gdpr=GDPR&ads.us_privacy=US_PRIVACY&ads.coppa=COPPA&ads.lmt=LMT&ads.gpp_sid=GPP_SID&ads.gpp=GPP&ads.csid=CSID
-
-#EXTINF:-1 tvg-id="40" tvg-name="Cindie | SUB" group-title="b.Series-Peliculas",Cindie | SUB
-https://d20xuwbyc4yoag.cloudfront.net/scheduler/scheduleMaster/387.m3u8
-
-#EXTINF:-1 tvg-id="41" tvg-name="Extrema TV | LAT" group-title="b.Series-Peliculas",Extrema TV | LAT
-https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
-
-#EXTINF:-1 tvg-id="42" tvg-name="Turismo HD | LAT" group-title="b.Series-Peliculas",Turismo HD | LAT
-https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8
-
-#EXTINF:-1 tvg-id="43" tvg-name="Wow Movies | LAT" group-title="b.Series-Peliculas",Wow Movies | LAT
-https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/chunks.m3u8
-
-#EXTINF:-1 tvg-id="44" tvg-name="Rakuten TV Family Movies | ESP" group-title="b.Series-Peliculas",Rakuten TV Family Movies | ESP
-https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8
-
-#EXTINF:-1 tvg-id="45" tvg-name="Rakuten TV Action Movies | ESP" group-title="b.Series-Peliculas",Rakuten TV Action Movies | ESP
-https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
-
-#EXTINF:-1 tvg-id="46" tvg-name="Rakuten TV Top Movies | ESP" group-title="b.Series-Peliculas",Rakuten TV Top Movies | ESP
-https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
-
-#EXTINF:-1 tvg-id="47" tvg-name="Rakuten TV Comedy Movies | ESP" group-title="b.Series-Peliculas",Rakuten TV Comedy Movies | ESP
-https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8
-
-#EXTINF:-1 tvg-id="48" tvg-name="Rakuten TV Drama Movies | ESP" group-title="b.Series-Peliculas",Rakuten TV Drama Movies | ESP
-https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8
-
-#EXTINF:-1 tvg-id="49" tvg-name="Rakuten TV Romance Movies | ESP" group-title="b.Series-Peliculas",Rakuten TV Romance Movies | ESP
-https://4b95c0f7aa2b4cae80f6515600154151.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8
-
-#EXTINF:-1 tvg-id="50" tvg-name="Rakuten TV Cine | ESP" group-title="b.Series-Peliculas",Rakuten TV Cine | ESP
-https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8
-
-#EXTINF:-1 tvg-id="51" tvg-name="Rakuten TV Sci-Fi | ESP" group-title="b.Series-Peliculas",Rakuten TV Sci-Fi | ESP
-https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8
-
-#EXTINF:-1 tvg-id="52" tvg-name="Rakuten TV Thriller | ESP" group-title="b.Series-Peliculas",Rakuten TV Thriller | ESP
-https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8
-
-#EXTINF:-1 tvg-id="53" tvg-name="New KMovies | SUB" group-title="b.Series-Peliculas",New KMovies | SUB
-https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=newkmovies&channel_id=newid_012&mpf=39aa2dab-39af1962-4de8e517&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=b649dc44-4adb999b-6ceb498a-3dab0337&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
-
-#EXTINF:-1 tvg-id="54" tvg-name="CineCanal | LAT" group-title="b.Series-Peliculas",CineCanal | LAT
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
-
-#EXTINF:-1 tvg-id="55" tvg-name="Todo Cine | LAT" group-title="b.Series-Peliculas",Todo Cine | LAT
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565&amp;avod=1&amp;coppa=0&amp;is_lat=0&amp;dnt=0&amp;td=6&amp;us_privacy=1ynn&amp;did=1b2bc9895846e2816394321ed8a6535e&amp;ifa_type=sessionid&amp;app_bundle=com.canela.ott
-
-#EXTINF:-1 tvg-id="56" tvg-name="Zylo Cine Friki | ESP" group-title="b.Series-Peliculas",Zylo Cine Friki | ESP
-https://zylo-cinefriki-rakuten.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="57" tvg-name="+Cine | LAT" group-title="b.Series-Peliculas",+Cine | LAT
-https://atresmedia-ceries-1-us.plex.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="58" tvg-name="Moni TV b | LAT" group-title="b.Series-Peliculas",Moni TV b | LAT
-https://live20.bozztv.com/akamaissh101/ssh101/monitvhd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="59" tvg-name="Aurora Media Films | LAT | n24-7" group-title="b.Series-Peliculas",Aurora Media Films | LAT | n24-7
-https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
-
-#EXTINF:-1 tvg-id="60" tvg-name="Tigueritos TV | LAT" group-title="b.Series-Peliculas",Tigueritos TV | LAT
+#EXTINF:-1 tvg-id="26" tvg-name="Tigueritos TV | LAT" group-title="a.Animacion",Tigueritos TV | LAT
 https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="61" tvg-name="Rakuten Viki | SUB" group-title="c.Novela",Rakuten Viki | SUB
+#EXTINF:-1 tvg-id="27" tvg-name="Esports Max | LAT" group-title="a.Animacion",Esports Max | LAT
+https://streamyes.alsolnet.com/esportsmax/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="28" tvg-name="Cine Sony | LAT" group-title="b.Series-Peliculas",Cine Sony | LAT
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="29" tvg-name="Sony One Cinema | LAT | FHD" group-title="b.Series-Peliculas",Sony One Cinema | LAT | FHD
+https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="30" tvg-name="Sony Channel | LAT" group-title="b.Series-Peliculas",Sony Channel | LAT
+https://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+
+#EXTINF:-1 tvg-id="31" tvg-name="Studio Universal | LAT" group-title="b.Series-Peliculas",Studio Universal | LAT
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/index.m3u8
+
+#EXTINF:-1 tvg-id="32" tvg-name="Xumo | LAT" group-title="b.Series-Peliculas",Xumo | LAT
+https://d6b383jzkrtyn.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992262&ads.caid=PeliculasGratis&ads.csid=lgchannels_[COUNTRY]_XumoPeliculasGratis_ssai&ads.lat=&ads.lon=&ads.os=webOS&ads.osv=&ads.xumo_platform=lg&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_content_category=IAB1-7&ads._fw_content_genre=Movies&ads._fw_content_language=es&ads._fw_content_rating=TV-PG&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_gdpr=[GDPR]&ads._fw_gdpr_consent=[GDPR_CONSENT]&ads._fw_h_x_country=[COUNTRY]&ads.appName=[APP_NAME]&ads.xumo_contentId=5&ads.xumo_contentName=XumoAggregate&ads.xumo_providerId=5&ads.xumo_providerName=XumoAggregate&ads.channelId=99992262&ads.xumo_imdb_genre=Action%252CAdventure%252CComedy%252CCrime%252CDrama%252CFamily%252CFantasy%252CHorror%252CMystery%252CRomance%252CSci-Fi%252CThriller%252CWar%252CWestern%252CSuperhero&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_app_bundle=[APP_BUNDLE]&ads.appVersion=[APP_VERSION]&ads.amznappId=61009c470a264b7c8322f1c45792cc5c&ads.amznslotId=9c67d46e-238a-49e6-a34f-f50fe8eed913&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
+
+#EXTINF:-1 tvg-id="33" tvg-name="MyTime | ESP" group-title="b.Series-Peliculas",MyTime | ESP
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="34" tvg-name="MyTime Movie | LAT" group-title="b.Series-Peliculas",MyTime Movie | LAT
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="35" tvg-name="Electric Now | LAT" group-title="b.Series-Peliculas",Electric Now | LAT
+https://s8host2.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config10/playlist.m3u8?ads.cdnhost=s8host2.localnow.api.cms.amdvids.com&ads.playbackid=56D5091D-B42A-4A99-8C50-6DBF198F0C49&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=56D5091D-B42A-4A99-8C50-6DBF198F0C49&ads.n4=content_name&ads.v4=Electric%20Now%20en%20Espanol&ads.n21=h&ads.v21=1080&ads.n22=content_provider&ads.v22=electricnow-en-espanol&ads.n23=ua&ads.v23=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n24=content_type&ads.v24=channel&ads.n25=channel_rating&ads.v25=TV-PG&ads.n26=content_custom_2_param&ads.v26=AMDB013335&ads.n27=app_bundle&ads.v27=&ads.n28=content_livestream&ads.v28=1&ads.n29=device_model&ads.v29=&ads.n30=channel_corp&ads.v30=Electric%20Entertainment&ads.n31=app_store_url&ads.v31=&ads.n32=channel_id&ads.v32=56D5091D-B42A-4A99-8C50-6DBF198F0C49&ads.n33=cust_devicename&ads.v33=desktop_web&ads.n34=channel_brand_id&ads.v34=AMDB013335&ads.n35=w&ads.v35=1920&ads.n36=channel_company_id&ads.v36=AMDP500133&ads.n37=dnt&ads.v37=&ads.n38=channel_ext_id&ads.v38=&ads.n39=channel_language&ads.v39=es&ads.n40=device_make&ads.v40=&ads.n41=pos&ads.v41=midroll&ads.n42=app_version&ads.v42=0.0.0&ads.n43=device_type&ads.v43=&ads.n44=content_custom_3_param&ads.v44=channel&ads.n45=app_name&ads.v45=&ads.n46=ip&ads.v46=195.179.200.80&ads.n47=channel_title&ads.v47=Electric%20Now%20en%20Espanol&ads.n48=content_custom_1_param&ads.v48=56D5091D-B42A-4A99-8C50-6DBF198F0C49&ads.n49=gpp&ads.v49=&ads.n50=gpp_sid&ads.v50=&ads.n51=channel_genre&ads.v51=Entertainment&ads.n52=ifa_type&ads.v52=&ads.n53=us_privacy&ads.v53=1YNY&ads.n54=network_name&ads.v54=electricnow-en-espanol&ads.n55=did&ads.v55=&ads.n56=channel_name&ads.v56=Electric%20Now%20en%20Espanol&ads.n57=content_producer_name&ads.v57=Electric%20Entertainment&ads.n58=url&ads.v58=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal
+
+#EXTINF:-1 tvg-id="36" tvg-name="ArtFlix | LAT" group-title="b.Series-Peliculas",ArtFlix | LAT
+https://amogonetworx-artflix-3-es.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="37" tvg-name="AMC | LAT" group-title="b.Series-Peliculas",AMC | LAT
+https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="38" tvg-name="FilmRise | LAT" group-title="b.Series-Peliculas",FilmRise | LAT
+https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889309
+
+#EXTINF:-1 tvg-id="39" tvg-name="Frecuencia Musical TV | LAT" group-title="b.Series-Peliculas",Frecuencia Musical TV | LAT
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=13014
+
+#EXTINF:-1 tvg-id="40" tvg-name="Butaca TV | LAT" group-title="b.Series-Peliculas",Butaca TV | LAT
+https://linear-842.frequency.stream/dist/tcltv/842/hls/master/playlist.m3u8?ads.dnt=DNT&ads.ic=IC&ads.duration=DURATION&ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.device_id=DID&ads.device_make=DEVICE_MAKE&ads.device_model=DEVICE_MODEL&ads.brand_name=BRAND_NAME&ads.ifa_type=IFA_TYPE&ads.gdpr_consent=GDPR_CONSENT&ads.gdpr=GDPR&ads.us_privacy=US_PRIVACY&ads.coppa=COPPA&ads.lmt=LMT&ads.gpp_sid=GPP_SID&ads.gpp=GPP&ads.csid=CSID
+
+#EXTINF:-1 tvg-id="41" tvg-name="Cindie | SUB" group-title="b.Series-Peliculas",Cindie | SUB
+https://d20xuwbyc4yoag.cloudfront.net/scheduler/scheduleMaster/387.m3u8
+
+#EXTINF:-1 tvg-id="42" tvg-name="Extrema TV | LAT" group-title="b.Series-Peliculas",Extrema TV | LAT
+https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="43" tvg-name="Turismo HD | LAT" group-title="b.Series-Peliculas",Turismo HD | LAT
+https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="Wow Movies | LAT" group-title="b.Series-Peliculas",Wow Movies | LAT
+https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/chunks.m3u8
+
+#EXTINF:-1 tvg-id="45" tvg-name="Rakuten TV Family Movies | ESP" group-title="b.Series-Peliculas",Rakuten TV Family Movies | ESP
+https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8
+
+#EXTINF:-1 tvg-id="46" tvg-name="Rakuten TV Action Movies | ESP" group-title="b.Series-Peliculas",Rakuten TV Action Movies | ESP
+https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
+
+#EXTINF:-1 tvg-id="47" tvg-name="Rakuten TV Top Movies | ESP" group-title="b.Series-Peliculas",Rakuten TV Top Movies | ESP
+https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
+
+#EXTINF:-1 tvg-id="48" tvg-name="Rakuten TV Comedy Movies | ESP" group-title="b.Series-Peliculas",Rakuten TV Comedy Movies | ESP
+https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8
+
+#EXTINF:-1 tvg-id="49" tvg-name="Rakuten TV Drama Movies | ESP" group-title="b.Series-Peliculas",Rakuten TV Drama Movies | ESP
+https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8
+
+#EXTINF:-1 tvg-id="50" tvg-name="Rakuten TV Romance Movies | ESP" group-title="b.Series-Peliculas",Rakuten TV Romance Movies | ESP
+https://4b95c0f7aa2b4cae80f6515600154151.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8
+
+#EXTINF:-1 tvg-id="51" tvg-name="Rakuten TV Cine | ESP" group-title="b.Series-Peliculas",Rakuten TV Cine | ESP
+https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8
+
+#EXTINF:-1 tvg-id="52" tvg-name="Rakuten TV Sci-Fi | ESP" group-title="b.Series-Peliculas",Rakuten TV Sci-Fi | ESP
+https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8
+
+#EXTINF:-1 tvg-id="53" tvg-name="Rakuten TV Thriller | ESP" group-title="b.Series-Peliculas",Rakuten TV Thriller | ESP
+https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8
+
+#EXTINF:-1 tvg-id="54" tvg-name="New KMovies | SUB" group-title="b.Series-Peliculas",New KMovies | SUB
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=newkmovies&channel_id=newid_012&mpf=39aa2dab-39af1962-4de8e517&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=b649dc44-4adb999b-6ceb498a-3dab0337&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
+
+#EXTINF:-1 tvg-id="55" tvg-name="CineCanal | LAT" group-title="b.Series-Peliculas",CineCanal | LAT
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
+
+#EXTINF:-1 tvg-id="56" tvg-name="Todo Cine | LAT" group-title="b.Series-Peliculas",Todo Cine | LAT
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565&amp;avod=1&amp;coppa=0&amp;is_lat=0&amp;dnt=0&amp;td=6&amp;us_privacy=1ynn&amp;did=1b2bc9895846e2816394321ed8a6535e&amp;ifa_type=sessionid&amp;app_bundle=com.canela.ott
+
+#EXTINF:-1 tvg-id="57" tvg-name="Zylo Cine Friki | ESP" group-title="b.Series-Peliculas",Zylo Cine Friki | ESP
+https://zylo-cinefriki-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="58" tvg-name="+Cine | LAT" group-title="b.Series-Peliculas",+Cine | LAT
+https://atresmedia-ceries-1-us.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="59" tvg-name="Moni TV b | LAT" group-title="b.Series-Peliculas",Moni TV b | LAT
+https://live20.bozztv.com/akamaissh101/ssh101/monitvhd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="60" tvg-name="Aurora Media Films | LAT | n24-7" group-title="b.Series-Peliculas",Aurora Media Films | LAT | n24-7
+https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
+
+#EXTINF:-1 tvg-id="61" tvg-name="National Geographic | LAT" group-title="b.Series-Peliculas",National Geographic | LAT
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
+
+#EXTINF:-1 tvg-id="62" tvg-name="Rakuten Viki | SUB" group-title="c.Novela",Rakuten Viki | SUB
 https://220f14502d694f3cb7f6a078aeaa4147.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-mx_RakutenViki/playlist.m3u8
 
-#EXTINF:-1 tvg-id="62" tvg-name="K-Drama by MBC | LAT" group-title="c.Novela",K-Drama by MBC | LAT
+#EXTINF:-1 tvg-id="63" tvg-name="K-Drama by MBC | LAT" group-title="c.Novela",K-Drama by MBC | LAT
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=k-dramabymbc&channel_id=newid_337&mpf=79b005ff-39af1962-c7319ae1&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=5dfff943-067be473-85f3955b-710b7edf&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 
-#EXTINF:-1 tvg-id="63" tvg-name="ROMCOM K-Drama | LAT" group-title="c.Novela",ROMCOM K-Drama | LAT
+#EXTINF:-1 tvg-id="64" tvg-name="ROMCOM K-Drama | LAT" group-title="c.Novela",ROMCOM K-Drama | LAT
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=romcomk-drama&channel_id=newid_232&mpf=08189b47-39af1962-368759c4&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=7e44fa59-d887b105-7d1f1344-aff72ba9&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 
-#EXTINF:-1 tvg-id="64" tvg-name="Vive Kanal D Drama | LAT" group-title="c.Novela",Vive Kanal D Drama | LAT
+#EXTINF:-1 tvg-id="65" tvg-name="Vive Kanal D Drama | LAT" group-title="c.Novela",Vive Kanal D Drama | LAT
 https://thema-vivekanald-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="65" tvg-name="Zee Mundo | LAT" group-title="c.Novela",Zee Mundo | LAT
+#EXTINF:-1 tvg-id="66" tvg-name="Zee Mundo | LAT" group-title="c.Novela",Zee Mundo | LAT
 https://amg17931-amg17931c3-ondemandkorea-amesia-4897.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeemundo-ondemandkoreaamesia/playlist.m3u8?app_name=AmasianTV&app_store_url=https%3A%2F%2Famasian.tv&genre=Television&ic=IAB1-7&us_privacy=1---&
 
-#EXTINF:-1 tvg-id="66" tvg-name="Canal del Sol | 🇩🇴 +1.DO" group-title="d.Nacionales 1",Canal del Sol | 🇩🇴 +1.DO
+#EXTINF:-1 tvg-id="67" tvg-name="Canal del Sol | 🇩🇴 +1.DO" group-title="d.Nacionales 1",Canal del Sol | 🇩🇴 +1.DO
 https://5790d294af2dc.streamlock.net/sol65/sol65/playlist.m3u8
-
-#EXTINF:-1 tvg-id="67" tvg-name="El Pituco TV | 🇩🇴 +1.DO" group-title="d.Nacionales 1",El Pituco TV | 🇩🇴 +1.DO
-https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
 
 #EXTINF:-1 tvg-id="68" tvg-name="CR Television Moyobamba | 🇵🇪 -0.PE | n24-7" group-title="d.Nacionales 1",CR Television Moyobamba | 🇵🇪 -0.PE | n24-7
 https://live.obslivestream.com/crtvmux/index.m3u8
@@ -251,116 +251,116 @@ https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
 #EXTINF:-1 tvg-id="84" tvg-name="Neo TV | 🇦🇷 +2.AR" group-title="d.Nacionales 1",Neo TV | 🇦🇷 +2.AR
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
-#EXTINF:-1 tvg-id="85" tvg-name="Opinion Sur Cine | 🇨🇱 +1.CL | FHD" group-title="d.Nacionales 1",Opinion Sur Cine | 🇨🇱 +1.CL | FHD
-https://live20.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/playlist.m3u8
+#EXTINF:-1 tvg-id="85" tvg-name="Via Altomayo | 🇵🇪 -0.PE" group-title="d.Nacionales 1",Via Altomayo | 🇵🇪 -0.PE
+https://live.obslivestream.com/viaaltomayomux/index.m3u8
 
-#EXTINF:-1 tvg-id="86" tvg-name="Bonches Latinos TV | 🇩🇴 +1.DO | FHD" group-title="d.Nacionales 1",Bonches Latinos TV | 🇩🇴 +1.DO | FHD
-https://5790d294af2dc.streamlock.net/latinostv/latinostv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="87" tvg-name="Ciudad Magazine | 🇦🇷 +2.AR | FHD" group-title="d.Nacionales 1",Ciudad Magazine | 🇦🇷 +2.AR | FHD
-https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
-
-#EXTINF:-1 tvg-id="88" tvg-name="Villa Altagracia TV | 🇩🇴 +1.DO | FHD" group-title="d.Nacionales 1",Villa Altagracia TV | 🇩🇴 +1.DO | FHD
-https://inliveserver.com:1936/10016/10016/playlist.m3u8
-
-#EXTINF:-1 tvg-id="89" tvg-name="BellaVision | 🇩🇴 +1.DO | FHD" group-title="d.Nacionales 1",BellaVision | 🇩🇴 +1.DO | FHD
-https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
-
-#EXTINF:-1 tvg-id="90" tvg-name="Aion TV | 🇩🇴 +1.DO | FHD" group-title="d.Nacionales 1",Aion TV | 🇩🇴 +1.DO | FHD
-https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
-
-#EXTINF:-1 tvg-id="91" tvg-name="GH Television | 🇩🇴 +1.DO | FHD" group-title="d.Nacionales 1",GH Television | 🇩🇴 +1.DO | FHD
-https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8
-
-#EXTINF:-1 tvg-id="92" tvg-name="TeleVer | 🇩🇴 +1.DO | n24-7 | FHD" group-title="d.Nacionales 1",TeleVer | 🇩🇴 +1.DO | n24-7 | FHD
-https://soportedvb.click:3413/live/televerlive.m3u8
-
-#EXTINF:-1 tvg-id="93" tvg-name="Onda TV | 🇩🇴 +1.DO" group-title="e.Nacionales 2",Onda TV | 🇩🇴 +1.DO
-https://cnn.hostlagarto.com/ondatv/index.m3u8
-
-#EXTINF:-1 tvg-id="94" tvg-name="Canal 34 San Juan | 🇦🇷 +2.AR | n24-7" group-title="e.Nacionales 2",Canal 34 San Juan | 🇦🇷 +2.AR | n24-7
-https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="95" tvg-name="Univers TV | 🇪🇸 +7.ES" group-title="e.Nacionales 2",Univers TV | 🇪🇸 +7.ES
-https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8
-
-#EXTINF:-1 tvg-id="96" tvg-name="Canal 10 Costa Rica | 🇨🇷 -1.CR | n24-7" group-title="e.Nacionales 2",Canal 10 Costa Rica | 🇨🇷 -1.CR | n24-7
-https://acceso.radiosportstv.online:3285/live/canal10costaricalive.m3u8
-
-#EXTINF:-1 tvg-id="97" tvg-name="Cenovision HD | 🇩🇴 +1.DO" group-title="e.Nacionales 2",Cenovision HD | 🇩🇴 +1.DO
-https://5790d294af2dc.streamlock.net/cenovision/cenovision/playlist.m3u8
-
-#EXTINF:-1 tvg-id="98" tvg-name="TeleMas | 🇨🇷 -1.CR" group-title="e.Nacionales 2",TeleMas | 🇨🇷 -1.CR
-https://mist01.homestream.fun/hls/tlmas904/0_1/index.m3u8
-
-#EXTINF:-1 tvg-id="99" tvg-name="Valle Nuevo TV | 🇩🇴 +1.DO | n24-7" group-title="e.Nacionales 2",Valle Nuevo TV | 🇩🇴 +1.DO | n24-7
-https://media.streambrothers.com:1936/8262/8262/playlist.m3u8
-
-#EXTINF:-1 tvg-id="100" tvg-name="Sol TV | 🇬🇹 -1.GT" group-title="e.Nacionales 2",Sol TV | 🇬🇹 -1.GT
-https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
-
-#EXTINF:-1 tvg-id="101" tvg-name="TeleBrunca | 🇨🇷 -1.CR | n24-7" group-title="e.Nacionales 2",TeleBrunca | 🇨🇷 -1.CR | n24-7
-https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8
-
-#EXTINF:-1 tvg-id="102" tvg-name="Catatumbo TV | 🇻🇪 +1.VE" group-title="e.Nacionales 2",Catatumbo TV | 🇻🇪 +1.VE
-https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8
-
-#EXTINF:-1 tvg-id="103" tvg-name="Onza TV | 🇻🇪 +1.VE" group-title="e.Nacionales 2",Onza TV | 🇻🇪 +1.VE
-https://stmv1.srvstm.com/gproducciones/gproducciones/playlist.m3u8
-
-#EXTINF:-1 tvg-id="104" tvg-name="Apanines TV | 🇨🇱 +1.CL" group-title="e.Nacionales 2",Apanines TV | 🇨🇱 +1.CL
-https://live20.bozztv.com/akamaissh101/ssh101/apaninestv2025/chunks.m3u8
-
-#EXTINF:-1 tvg-id="105" tvg-name="Nexxo TV | 🇩🇴 +1.DO" group-title="e.Nacionales 2",Nexxo TV | 🇩🇴 +1.DO
-https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
-
-#EXTINF:-1 tvg-id="106" tvg-name="Telecolor Yurimaguas | 🇵🇪 -0.PE | n24-7" group-title="e.Nacionales 2",Telecolor Yurimaguas | 🇵🇪 -0.PE | n24-7
-https://live.obslivestream.com/telecolormux/index.m3u8
-
-#EXTINF:-1 tvg-id="107" tvg-name="Garabito TV | 🇨🇷 -1.CR" group-title="e.Nacionales 2",Garabito TV | 🇨🇷 -1.CR
-https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="108" tvg-name="Orbit TV | 🇩🇴 +1.DO" group-title="e.Nacionales 2",Orbit TV | 🇩🇴 +1.DO
-https://vdo2.streamgato.us:3670/live/orbittvlive.m3u8
-
-#EXTINF:-1 tvg-id="109" tvg-name="Antares | 🇵🇪 -0.PE" group-title="e.Nacionales 2",Antares | 🇵🇪 -0.PE
+#EXTINF:-1 tvg-id="86" tvg-name="Antares | 🇵🇪 -0.PE" group-title="d.Nacionales 1",Antares | 🇵🇪 -0.PE
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/.m3u8
 
-#EXTINF:-1 tvg-id="110" tvg-name="Hechicera | 🇵🇪 -0.PE" group-title="e.Nacionales 2",Hechicera | 🇵🇪 -0.PE
+#EXTINF:-1 tvg-id="87" tvg-name="Telecolor Yurimaguas | 🇵🇪 -0.PE | n24-7" group-title="d.Nacionales 1",Telecolor Yurimaguas | 🇵🇪 -0.PE | n24-7
+https://live.obslivestream.com/telecolormux/index.m3u8
+
+#EXTINF:-1 tvg-id="88" tvg-name="Hechicera | 🇵🇪 -0.PE" group-title="d.Nacionales 1",Hechicera | 🇵🇪 -0.PE
 https://video.misistemareseller.com/corporationhc/corporationhc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="111" tvg-name="Canal 9 Barbe TV | 🇬🇹 -1.GT | n24-7" group-title="e.Nacionales 2",Canal 9 Barbe TV | 🇬🇹 -1.GT | n24-7
-https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
-
-#EXTINF:-1 tvg-id="112" tvg-name="RTV Riobamba | 🇪🇨 -2.EC | n24-7" group-title="e.Nacionales 2",RTV Riobamba | 🇪🇨 -2.EC | n24-7
-https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8
-
-#EXTINF:-1 tvg-id="113" tvg-name="Atacama TV | 🇨🇱 +1.CL" group-title="e.Nacionales 2",Atacama TV | 🇨🇱 +1.CL
-https://v2.tustreaming.cl/atacamatv/index.m3u8
-
-#EXTINF:-1 tvg-id="114" tvg-name="Max TV | 🇨🇴 -0.CO" group-title="e.Nacionales 2",Max TV | 🇨🇴 -0.CO
-https://inliveserver.com:1936/8078/8078/playlist.m3u8
-
-#EXTINF:-1 tvg-id="115" tvg-name="Santa Maria Television |🇨🇱 +1.CL" group-title="e.Nacionales 2",Santa Maria Television |🇨🇱 +1.CL
-https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="116" tvg-name="Radio TV Oriente | 🇵🇪 -0.PE" group-title="e.Nacionales 2",Radio TV Oriente | 🇵🇪 -0.PE
-https://live.obslivestream.com/tvoriente/index.m3u8
-
-#EXTINF:-1 tvg-id="117" tvg-name="Dan TV | 🇩🇴 +1.DO" group-title="e.Nacionales 2",Dan TV | 🇩🇴 +1.DO
-https://vdo2.streamgato.us:3562/live/dantvlive.m3u8
-
-#EXTINF:-1 tvg-id="118" tvg-name="Latina TV Internacional | 🇩🇴 +1.DO" group-title="e.Nacionales 2",Latina TV Internacional | 🇩🇴 +1.DO
-https://5790d294af2dc.streamlock.net/latinatv/latinatv/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="119" tvg-name="Nim TV | 🇬🇹 -1.GT | n24-7" group-title="e.Nacionales 2",Nim TV | 🇬🇹 -1.GT | n24-7
-https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
-
-#EXTINF:-1 tvg-id="120" tvg-name="Uranio TV | 🇵🇪 -0.PE | n24-7" group-title="e.Nacionales 2",Uranio TV | 🇵🇪 -0.PE | n24-7
+#EXTINF:-1 tvg-id="89" tvg-name="Uranio TV | 🇵🇪 -0.PE | n24-7" group-title="d.Nacionales 1",Uranio TV | 🇵🇪 -0.PE | n24-7
 https://live.obslivestream.com/uraniotv/index.m3u8
 
-#EXTINF:-1 tvg-id="121" tvg-name="Via Altomayo | 🇵🇪 -0.PE" group-title="e.Nacionales 2",Via Altomayo | 🇵🇪 -0.PE
-https://live.obslivestream.com/viaaltomayomux/index.m3u8
+#EXTINF:-1 tvg-id="90" tvg-name="Radio TV Oriente | 🇵🇪 -0.PE" group-title="d.Nacionales 1",Radio TV Oriente | 🇵🇪 -0.PE
+https://live.obslivestream.com/tvoriente/index.m3u8
+
+#EXTINF:-1 tvg-id="91" tvg-name="Opinion Sur Cine | 🇨🇱 +1.CL | FHD" group-title="d.Nacionales 1",Opinion Sur Cine | 🇨🇱 +1.CL | FHD
+https://live20.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="92" tvg-name="Bonches Latinos TV | 🇩🇴 +1.DO | FHD" group-title="d.Nacionales 1",Bonches Latinos TV | 🇩🇴 +1.DO | FHD
+https://5790d294af2dc.streamlock.net/latinostv/latinostv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="93" tvg-name="Ciudad Magazine | 🇦🇷 +2.AR | FHD" group-title="d.Nacionales 1",Ciudad Magazine | 🇦🇷 +2.AR | FHD
+https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+
+#EXTINF:-1 tvg-id="94" tvg-name="Villa Altagracia TV | 🇩🇴 +1.DO | FHD" group-title="d.Nacionales 1",Villa Altagracia TV | 🇩🇴 +1.DO | FHD
+https://inliveserver.com:1936/10016/10016/playlist.m3u8
+
+#EXTINF:-1 tvg-id="95" tvg-name="BellaVision | 🇩🇴 +1.DO | FHD" group-title="d.Nacionales 1",BellaVision | 🇩🇴 +1.DO | FHD
+https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
+
+#EXTINF:-1 tvg-id="96" tvg-name="Aion TV | 🇩🇴 +1.DO | FHD" group-title="d.Nacionales 1",Aion TV | 🇩🇴 +1.DO | FHD
+https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
+
+#EXTINF:-1 tvg-id="97" tvg-name="GH Television | 🇩🇴 +1.DO | FHD" group-title="d.Nacionales 1",GH Television | 🇩🇴 +1.DO | FHD
+https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8
+
+#EXTINF:-1 tvg-id="98" tvg-name="TeleVer | 🇩🇴 +1.DO | n24-7 | FHD" group-title="d.Nacionales 1",TeleVer | 🇩🇴 +1.DO | n24-7 | FHD
+https://soportedvb.click:3413/live/televerlive.m3u8
+
+#EXTINF:-1 tvg-id="99" tvg-name="Onda TV | 🇩🇴 +1.DO" group-title="e.Nacionales 2",Onda TV | 🇩🇴 +1.DO
+https://cnn.hostlagarto.com/ondatv/index.m3u8
+
+#EXTINF:-1 tvg-id="100" tvg-name="Canal 34 San Juan | 🇦🇷 +2.AR | n24-7" group-title="e.Nacionales 2",Canal 34 San Juan | 🇦🇷 +2.AR | n24-7
+https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="101" tvg-name="Univers TV | 🇪🇸 +7.ES" group-title="e.Nacionales 2",Univers TV | 🇪🇸 +7.ES
+https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8
+
+#EXTINF:-1 tvg-id="102" tvg-name="Canal 10 Costa Rica | 🇨🇷 -1.CR | n24-7" group-title="e.Nacionales 2",Canal 10 Costa Rica | 🇨🇷 -1.CR | n24-7
+https://acceso.radiosportstv.online:3285/live/canal10costaricalive.m3u8
+
+#EXTINF:-1 tvg-id="103" tvg-name="Cenovision HD | 🇩🇴 +1.DO" group-title="e.Nacionales 2",Cenovision HD | 🇩🇴 +1.DO
+https://5790d294af2dc.streamlock.net/cenovision/cenovision/playlist.m3u8
+
+#EXTINF:-1 tvg-id="104" tvg-name="TeleMas | 🇨🇷 -1.CR" group-title="e.Nacionales 2",TeleMas | 🇨🇷 -1.CR
+https://mist01.homestream.fun/hls/tlmas904/0_1/index.m3u8
+
+#EXTINF:-1 tvg-id="105" tvg-name="Valle Nuevo TV | 🇩🇴 +1.DO | n24-7" group-title="e.Nacionales 2",Valle Nuevo TV | 🇩🇴 +1.DO | n24-7
+https://media.streambrothers.com:1936/8262/8262/playlist.m3u8
+
+#EXTINF:-1 tvg-id="106" tvg-name="Sol TV | 🇬🇹 -1.GT" group-title="e.Nacionales 2",Sol TV | 🇬🇹 -1.GT
+https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
+
+#EXTINF:-1 tvg-id="107" tvg-name="TeleBrunca | 🇨🇷 -1.CR | n24-7" group-title="e.Nacionales 2",TeleBrunca | 🇨🇷 -1.CR | n24-7
+https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8
+
+#EXTINF:-1 tvg-id="108" tvg-name="Catatumbo TV | 🇻🇪 +1.VE" group-title="e.Nacionales 2",Catatumbo TV | 🇻🇪 +1.VE
+https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8
+
+#EXTINF:-1 tvg-id="109" tvg-name="Onza TV | 🇻🇪 +1.VE" group-title="e.Nacionales 2",Onza TV | 🇻🇪 +1.VE
+https://stmv1.srvstm.com/gproducciones/gproducciones/playlist.m3u8
+
+#EXTINF:-1 tvg-id="110" tvg-name="Apanines TV | 🇨🇱 +1.CL" group-title="e.Nacionales 2",Apanines TV | 🇨🇱 +1.CL
+https://live20.bozztv.com/akamaissh101/ssh101/apaninestv2025/chunks.m3u8
+
+#EXTINF:-1 tvg-id="111" tvg-name="Nexxo TV | 🇩🇴 +1.DO" group-title="e.Nacionales 2",Nexxo TV | 🇩🇴 +1.DO
+https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
+
+#EXTINF:-1 tvg-id="112" tvg-name="Garabito TV | 🇨🇷 -1.CR" group-title="e.Nacionales 2",Garabito TV | 🇨🇷 -1.CR
+https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="113" tvg-name="Orbit TV | 🇩🇴 +1.DO" group-title="e.Nacionales 2",Orbit TV | 🇩🇴 +1.DO
+https://vdo2.streamgato.us:3670/live/orbittvlive.m3u8
+
+#EXTINF:-1 tvg-id="114" tvg-name="Canal 9 Barbe TV | 🇬🇹 -1.GT | n24-7" group-title="e.Nacionales 2",Canal 9 Barbe TV | 🇬🇹 -1.GT | n24-7
+https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
+
+#EXTINF:-1 tvg-id="115" tvg-name="RTV Riobamba | 🇪🇨 -2.EC | n24-7" group-title="e.Nacionales 2",RTV Riobamba | 🇪🇨 -2.EC | n24-7
+https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8
+
+#EXTINF:-1 tvg-id="116" tvg-name="Atacama TV | 🇨🇱 +1.CL" group-title="e.Nacionales 2",Atacama TV | 🇨🇱 +1.CL
+https://v2.tustreaming.cl/atacamatv/index.m3u8
+
+#EXTINF:-1 tvg-id="117" tvg-name="Max TV | 🇨🇴 -0.CO" group-title="e.Nacionales 2",Max TV | 🇨🇴 -0.CO
+https://inliveserver.com:1936/8078/8078/playlist.m3u8
+
+#EXTINF:-1 tvg-id="118" tvg-name="Santa Maria Television |🇨🇱 +1.CL" group-title="e.Nacionales 2",Santa Maria Television |🇨🇱 +1.CL
+https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="119" tvg-name="Dan TV | 🇩🇴 +1.DO" group-title="e.Nacionales 2",Dan TV | 🇩🇴 +1.DO
+https://vdo2.streamgato.us:3562/live/dantvlive.m3u8
+
+#EXTINF:-1 tvg-id="120" tvg-name="Latina TV Internacional | 🇩🇴 +1.DO" group-title="e.Nacionales 2",Latina TV Internacional | 🇩🇴 +1.DO
+https://5790d294af2dc.streamlock.net/latinatv/latinatv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="121" tvg-name="Nim TV | 🇬🇹 -1.GT | n24-7" group-title="e.Nacionales 2",Nim TV | 🇬🇹 -1.GT | n24-7
+https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
 
 #EXTINF:-1 tvg-id="122" tvg-name="Vision TV | 🇬🇹 -1.GT" group-title="e.Nacionales 2",Vision TV | 🇬🇹 -1.GT
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
@@ -368,35 +368,17 @@ https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:-1 tvg-id="123" tvg-name="Canal 100 TV Chinique | 🇬🇹 -1.GT" group-title="e.Nacionales 2",Canal 100 TV Chinique | 🇬🇹 -1.GT
 https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
 
-#EXTINF:-1 tvg-id="124" tvg-name="TotoVision | 🇬🇹 -1.GT" group-title="e.Nacionales 2",TotoVision | 🇬🇹 -1.GT
-https://cdn.streamhispanatv.net:3652/live/totovisiongtlive.m3u8
-
-#EXTINF:-1 tvg-id="125" tvg-name="TeleNord | 🇩🇴 +1.DO" group-title="e.Nacionales 2",TeleNord | 🇩🇴 +1.DO
-https://vdo1.streamgato.us:3345/live/telenord12live.m3u8
-
-#EXTINF:-1 tvg-id="126" tvg-name="MicroVision | 🇩🇴 +1.DO" group-title="e.Nacionales 2",MicroVision | 🇩🇴 +1.DO
+#EXTINF:-1 tvg-id="124" tvg-name="MicroVision | 🇩🇴 +1.DO" group-title="e.Nacionales 2",MicroVision | 🇩🇴 +1.DO
 https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 
-#EXTINF:-1 tvg-id="127" tvg-name="Mix Bolivia TV | 🇧🇴 +1.BO" group-title="e.Nacionales 2",Mix Bolivia TV | 🇧🇴 +1.BO
+#EXTINF:-1 tvg-id="125" tvg-name="Mix Bolivia TV | 🇧🇴 +1.BO" group-title="e.Nacionales 2",Mix Bolivia TV | 🇧🇴 +1.BO
 https://live20.bozztv.com/giatv/giatv-NEOMIXHD/NEOMIXHD/chunks.m3u8
 
-#EXTINF:-1 tvg-id="128" tvg-name="TeleCreativa | 🇦🇷 +2.AR" group-title="e.Nacionales 2",TeleCreativa | 🇦🇷 +2.AR
-https://panel.host-live.com:19360/8012/8012.m3u8
-
-#EXTINF:-1 tvg-id="129" tvg-name="Cinco TV | 🇦🇷 +2.AR" group-title="e.Nacionales 2",Cinco TV | 🇦🇷 +2.AR
-https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
-
-#EXTINF:-1 tvg-id="130" tvg-name="Bayres TV | 🇦🇷 +2.AR" group-title="e.Nacionales 2",Bayres TV | 🇦🇷 +2.AR
-https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="131" tvg-name="Ciudad Magica TV | 🇦🇷 +2.AR" group-title="e.Nacionales 2",Ciudad Magica TV | 🇦🇷 +2.AR
-https://tuvideoonline.com.ar:3145/live/grupocitylive.m3u8
-
-#EXTINF:-1 tvg-id="132" tvg-name="Gen TV | 🇦🇷 +2.AR" group-title="e.Nacionales 2",Gen TV | 🇦🇷 +2.AR
+#EXTINF:-1 tvg-id="126" tvg-name="Gen TV | 🇦🇷 +2.AR" group-title="e.Nacionales 2",Gen TV | 🇦🇷 +2.AR
 https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="133" tvg-name="STV | 🇨🇷 -1.CR" group-title="e.Nacionales 2",STV | 🇨🇷 -1.CR
-https://lstv.duckdns.org:449/hls/stv.m3u8
+#EXTINF:-1 tvg-id="127" tvg-name="Bayres TV | 🇦🇷 +2.AR" group-title="e.Nacionales 2",Bayres TV | 🇦🇷 +2.AR
+https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="134" tvg-name="TeleSistema | 🇨🇷 -1.CR" group-title="e.Nacionales 2",TeleSistema | 🇨🇷 -1.CR
-https://k20.usastreams.com:8081/telesistema/index.m3u8
+#EXTINF:-1 tvg-id="128" tvg-name="El Pituco TV | 🇩🇴 +1.DO" group-title="e.Nacionales 2",El Pituco TV | 🇩🇴 +1.DO
+https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
