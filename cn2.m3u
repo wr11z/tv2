@@ -44,11 +44,11 @@ https://giatv.bozztv.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/playlist.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="Anime Station | LAT" group-title="a.Animacion",Anime Station | LAT
 https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="16" tvg-name="Anime Zone TV | LAT" group-title="a.Animacion",Anime Zone TV | LAT
-http://animezonetv.net/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="17" tvg-name="Anime Station 2 | LAT" group-title="a.Animacion",Anime Station 2 | LAT
+#EXTINF:-1 tvg-id="16" tvg-name="Anime Station 2 | LAT" group-title="a.Animacion",Anime Station 2 | LAT
 https://live20.bozztv.com/giatv/giatv-livestreamingtv/livestreamingtv/chunks.m3u8
+
+#EXTINF:-1 tvg-id="17" tvg-name="Anime Zone TV | LAT" group-title="a.Animacion",Anime Zone TV | LAT
+http://animezonetv.net/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="18" tvg-name="Max Anime | LAT" group-title="a.Animacion",Max Anime | LAT
 https://streamlov.alsolnet.com/maxanime/live/chunklist_w353975405.m3u8
@@ -83,7 +83,7 @@ https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="Cartooncito | LAT" group-title="a.Animacion",Cartooncito | LAT
 https://live20.bozztv.com/giatv/giatv-CARTOONRETRO/CARTOONRETRO/chunks.m3u8
 
-#EXTINF:-1 tvg-id="29" tvg-name="Diney Channel | LAT" group-title="a.Animacion",Diney Channel | LAT
+#EXTINF:-1 tvg-id="29" tvg-name="Disney Channel | LAT" group-title="a.Animacion",Disney Channel | LAT
 http://103.111.40.242:9999/play/a00e/index.m3u8
 
 #EXTINF:-1 tvg-id="30" tvg-name="Dodo TV | LAT" group-title="b.Series-Peliculas",Dodo TV | LAT
@@ -203,32 +203,32 @@ https://atresmedia-ceries-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="68" tvg-name="Big Time | LAT" group-title="b.Series-Peliculas",Big Time | LAT
 https://amogonetworx-bigtjme-2-mx.tcl.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="69" tvg-name="Spark TV 1 | LAT" group-title="b.Series-Peliculas",Spark TV 1 | LAT
+#EXTINF:-1 tvg-id="69" tvg-name="LifeTime | LAT" group-title="b.Series-Peliculas",LifeTime | LAT
+http://103.111.40.242:9999/play/a049/index.m3u8
+
+#EXTINF:-1 tvg-id="70" tvg-name="Spark TV 1 | LAT" group-title="b.Series-Peliculas",Spark TV 1 | LAT
 https://candlelightmedia-sparklightlove-2-mx.tcl.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="70" tvg-name="Spark TV 2 | LAT" group-title="b.Series-Peliculas",Spark TV 2 | LAT
+#EXTINF:-1 tvg-id="71" tvg-name="Spark TV 2 | LAT" group-title="b.Series-Peliculas",Spark TV 2 | LAT
 https://68fa646cfc3f456983d7e97be9b62c64.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG-mx_SparkTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="71" tvg-name="Revry LatinX | LAT" group-title="b.Series-Peliculas",Revry LatinX | LAT
+#EXTINF:-1 tvg-id="72" tvg-name="Revry LatinX | LAT" group-title="b.Series-Peliculas",Revry LatinX | LAT
 https://linear-142.frequency.stream/dist/24i/142/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="72" tvg-name="Rakuten Viki | SUB" group-title="c.Novela",Rakuten Viki | SUB
+#EXTINF:-1 tvg-id="73" tvg-name="Rakuten Viki | SUB" group-title="c.Novela",Rakuten Viki | SUB
 https://220f14502d694f3cb7f6a078aeaa4147.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-mx_RakutenViki/playlist.m3u8
 
-#EXTINF:-1 tvg-id="73" tvg-name="K-Drama by MBC | LAT" group-title="c.Novela",K-Drama by MBC | LAT
+#EXTINF:-1 tvg-id="74" tvg-name="K-Drama by MBC | LAT" group-title="c.Novela",K-Drama by MBC | LAT
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=k-dramabymbc&channel_id=newid_337&mpf=79b005ff-39af1962-c7319ae1&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=5dfff943-067be473-85f3955b-710b7edf&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 
-#EXTINF:-1 tvg-id="74" tvg-name="ROMCOM K-Drama | LAT" group-title="c.Novela",ROMCOM K-Drama | LAT
+#EXTINF:-1 tvg-id="75" tvg-name="ROMCOM K-Drama | LAT" group-title="c.Novela",ROMCOM K-Drama | LAT
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=romcomk-drama&channel_id=newid_232&mpf=08189b47-39af1962-368759c4&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=7e44fa59-d887b105-7d1f1344-aff72ba9&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 
-#EXTINF:-1 tvg-id="75" tvg-name="Vive Kanal D Drama | LAT" group-title="c.Novela",Vive Kanal D Drama | LAT
+#EXTINF:-1 tvg-id="76" tvg-name="Vive Kanal D Drama | LAT" group-title="c.Novela",Vive Kanal D Drama | LAT
 https://thema-vivekanald-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="76" tvg-name="Zee Mundo | LAT" group-title="c.Novela",Zee Mundo | LAT
+#EXTINF:-1 tvg-id="77" tvg-name="Zee Mundo | LAT" group-title="c.Novela",Zee Mundo | LAT
 https://amg17931-amg17931c3-ondemandkorea-amesia-4897.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeemundo-ondemandkoreaamesia/playlist.m3u8?app_name=AmasianTV&app_store_url=https%3A%2F%2Famasian.tv&genre=Television&ic=IAB1-7&us_privacy=1---&
-
-#EXTINF:-1 tvg-id="77" tvg-name="LifeTime | LAT" group-title="c.Novela",LifeTime | LAT
-http://103.111.40.242:9999/play/a049/index.m3u8
 
 #EXTINF:-1 tvg-id="78" tvg-name="RCN Novelas | LAT" group-title="c.Novela",RCN Novelas | LAT
 http://103.111.40.242:9999/play/a03k/index.m3u8
@@ -251,10 +251,10 @@ https://movil.ejeserver.com/live/visiondorada.m3u8
 #EXTINF:-1 tvg-id="84" tvg-name="Television Metropolis 19.2 | 🇭🇳 -1.HN | n24-7 | FHD" group-title="d.Nacionales 1",Television Metropolis 19.2 | 🇭🇳 -1.HN | n24-7 | FHD
 https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
 
-#EXTINF:-1 tvg-id="85" tvg-name="Canal 57 | 🇺🇸+1.US" group-title="d.Nacionales 1",Canal 57 | 🇺🇸+1.US
+#EXTINF:-1 tvg-id="85" tvg-name="Canal 57 | 🇺🇸 +1.US" group-title="d.Nacionales 1",Canal 57 | 🇺🇸 +1.US
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/index.fmp4.m3u8
 
-#EXTINF:-1 tvg-id="86" tvg-name="America Teve | 🇺🇸+1.US" group-title="d.Nacionales 1",America Teve | 🇺🇸+1.US
+#EXTINF:-1 tvg-id="86" tvg-name="America Teve | 🇺🇸 +1.US" group-title="d.Nacionales 1",America Teve | 🇺🇸 +1.US
 https://tgn2.bozztv.com/americateve/americateve1/americateve--1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="87" tvg-name="TeleBolivar | 🇨🇴 -0.CO | FHD" group-title="d.Nacionales 1",TeleBolivar | 🇨🇴 -0.CO | FHD
