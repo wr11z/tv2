@@ -436,3 +436,9 @@ https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
 #EXTINF:-1 tvg-id="146" tvg-name="Next HD | 🇵🇾 +2.PY" group-title="e.Nacionales 2",Next HD | 🇵🇾 +2.PY
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+
+#EXTINF:-1 tvg-id="147" tvg-name="TV Florencia | 🇬🇹 -1.GT" group-title="e.Nacionales 2",TV Florencia | 🇬🇹 -1.GT
+https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8
+
+#EXTINF:-1 tvg-id="148" tvg-name="TCS+ | 🇸🇻 -1.SV" group-title="e.Nacionales 2",TCS+ | 🇸🇻 -1.SV
+https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
