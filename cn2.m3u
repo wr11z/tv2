@@ -212,233 +212,269 @@ https://candlelightmedia-sparklightlove-2-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="71" tvg-name="Spark TV 2 | LAT" group-title="b.Series-Peliculas",Spark TV 2 | LAT
 https://68fa646cfc3f456983d7e97be9b62c64.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG-mx_SparkTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="72" tvg-name="Revry LatinX | LAT" group-title="b.Series-Peliculas",Revry LatinX | LAT
-https://linear-142.frequency.stream/dist/24i/142/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="73" tvg-name="Rakuten Viki | SUB" group-title="c.Novela",Rakuten Viki | SUB
+#EXTINF:-1 tvg-id="72" tvg-name="Rakuten Viki | SUB" group-title="c.Novela",Rakuten Viki | SUB
 https://220f14502d694f3cb7f6a078aeaa4147.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-mx_RakutenViki/playlist.m3u8
 
-#EXTINF:-1 tvg-id="74" tvg-name="K-Drama by MBC | LAT" group-title="c.Novela",K-Drama by MBC | LAT
+#EXTINF:-1 tvg-id="73" tvg-name="K-Drama by MBC | LAT" group-title="c.Novela",K-Drama by MBC | LAT
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=k-dramabymbc&channel_id=newid_337&mpf=79b005ff-39af1962-c7319ae1&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=5dfff943-067be473-85f3955b-710b7edf&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 
-#EXTINF:-1 tvg-id="75" tvg-name="ROMCOM K-Drama | LAT" group-title="c.Novela",ROMCOM K-Drama | LAT
+#EXTINF:-1 tvg-id="74" tvg-name="ROMCOM K-Drama | LAT" group-title="c.Novela",ROMCOM K-Drama | LAT
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=romcomk-drama&channel_id=newid_232&mpf=08189b47-39af1962-368759c4&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=7e44fa59-d887b105-7d1f1344-aff72ba9&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 
-#EXTINF:-1 tvg-id="76" tvg-name="Vive Kanal D Drama | LAT" group-title="c.Novela",Vive Kanal D Drama | LAT
+#EXTINF:-1 tvg-id="75" tvg-name="Vive Kanal D Drama | LAT" group-title="c.Novela",Vive Kanal D Drama | LAT
 https://thema-vivekanald-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="77" tvg-name="Zee Mundo | LAT" group-title="c.Novela",Zee Mundo | LAT
+#EXTINF:-1 tvg-id="76" tvg-name="Zee Mundo | LAT" group-title="c.Novela",Zee Mundo | LAT
 https://amg17931-amg17931c3-ondemandkorea-amesia-4897.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeemundo-ondemandkoreaamesia/playlist.m3u8?app_name=AmasianTV&app_store_url=https%3A%2F%2Famasian.tv&genre=Television&ic=IAB1-7&us_privacy=1---&
 
-#EXTINF:-1 tvg-id="78" tvg-name="RCN Novelas | LAT" group-title="c.Novela",RCN Novelas | LAT
+#EXTINF:-1 tvg-id="77" tvg-name="RCN Novelas | LAT" group-title="c.Novela",RCN Novelas | LAT
 http://103.111.40.242:9999/play/a03k/index.m3u8
 
-#EXTINF:-1 tvg-id="79" tvg-name="Canal del Sol | 🇩🇴 +1.DO" group-title="d.Nacionales 1",Canal del Sol | 🇩🇴 +1.DO
+#EXTINF:-1 tvg-id="78" tvg-name="Canal del Sol | 🇩🇴 +1.DO" group-title="d.Nacionales 1",Canal del Sol | 🇩🇴 +1.DO
 https://5790d294af2dc.streamlock.net/sol65/sol65/playlist.m3u8
 
-#EXTINF:-1 tvg-id="80" tvg-name="CR Television Moyobamba | 🇵🇪 -0.PE | n24-7" group-title="d.Nacionales 1",CR Television Moyobamba | 🇵🇪 -0.PE | n24-7
+#EXTINF:-1 tvg-id="79" tvg-name="CR Television Moyobamba | 🇵🇪 -0.PE | n24-7" group-title="d.Nacionales 1",CR Television Moyobamba | 🇵🇪 -0.PE | n24-7
 https://live.obslivestream.com/crtvmux/index.m3u8
 
-#EXTINF:-1 tvg-id="81" tvg-name="Imagen Universal TV | 🇩🇴 +1.DO | FHD" group-title="d.Nacionales 1",Imagen Universal TV | 🇩🇴 +1.DO | FHD
+#EXTINF:-1 tvg-id="80" tvg-name="Imagen Universal TV | 🇩🇴 +1.DO | FHD" group-title="d.Nacionales 1",Imagen Universal TV | 🇩🇴 +1.DO | FHD
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 
-#EXTINF:-1 tvg-id="82" tvg-name="Planeta TV | 🇵🇪 -0.PE | n24-7" group-title="d.Nacionales 1",Planeta TV | 🇵🇪 -0.PE | n24-7
+#EXTINF:-1 tvg-id="81" tvg-name="Planeta TV | 🇵🇪 -0.PE | n24-7" group-title="d.Nacionales 1",Planeta TV | 🇵🇪 -0.PE | n24-7
 https://live.obslivestream.com/planetatv/index.m3u8
 
-#EXTINF:-1 tvg-id="83" tvg-name="BUM Television | 🇨🇴 -0.CO | n24-7" group-title="d.Nacionales 1",BUM Television | 🇨🇴 -0.CO | n24-7
+#EXTINF:-1 tvg-id="82" tvg-name="BUM Television | 🇨🇴 -0.CO | n24-7" group-title="d.Nacionales 1",BUM Television | 🇨🇴 -0.CO | n24-7
 https://movil.ejeserver.com/live/visiondorada.m3u8
 
-#EXTINF:-1 tvg-id="84" tvg-name="Television Metropolis 19.2 | 🇭🇳 -1.HN | n24-7 | FHD" group-title="d.Nacionales 1",Television Metropolis 19.2 | 🇭🇳 -1.HN | n24-7 | FHD
+#EXTINF:-1 tvg-id="83" tvg-name="Television Metropolis 19.2 | 🇭🇳 -1.HN | n24-7 | FHD" group-title="d.Nacionales 1",Television Metropolis 19.2 | 🇭🇳 -1.HN | n24-7 | FHD
 https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
 
-#EXTINF:-1 tvg-id="85" tvg-name="Canal 57 | 🇺🇸 +1.US" group-title="d.Nacionales 1",Canal 57 | 🇺🇸 +1.US
+#EXTINF:-1 tvg-id="84" tvg-name="Canal 57 | 🇺🇸 +1.US" group-title="d.Nacionales 1",Canal 57 | 🇺🇸 +1.US
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/index.fmp4.m3u8
 
-#EXTINF:-1 tvg-id="86" tvg-name="America Teve | 🇺🇸 +1.US" group-title="d.Nacionales 1",America Teve | 🇺🇸 +1.US
+#EXTINF:-1 tvg-id="85" tvg-name="America Teve | 🇺🇸 +1.US" group-title="d.Nacionales 1",America Teve | 🇺🇸 +1.US
 https://tgn2.bozztv.com/americateve/americateve1/americateve--1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="87" tvg-name="TeleBolivar | 🇨🇴 -0.CO | FHD" group-title="d.Nacionales 1",TeleBolivar | 🇨🇴 -0.CO | FHD
+#EXTINF:-1 tvg-id="86" tvg-name="TeleBolivar | 🇨🇴 -0.CO | FHD" group-title="d.Nacionales 1",TeleBolivar | 🇨🇴 -0.CO | FHD
 https://live20.bozztv.com/akamaissh101/ssh101/telebolivar/playlist.m3u8
 
-#EXTINF:-1 tvg-id="88" tvg-name="RVP TV | 🇵🇪 -0.PE | FHD" group-title="d.Nacionales 1",RVP TV | 🇵🇪 -0.PE | FHD
+#EXTINF:-1 tvg-id="87" tvg-name="RVP TV | 🇵🇪 -0.PE | FHD" group-title="d.Nacionales 1",RVP TV | 🇵🇪 -0.PE | FHD
 https://eu1.servers10.com:8081/8030/index.m3u8
 
-#EXTINF:-1 tvg-id="89" tvg-name="Austral TV | 🇪🇨 -2.EC | FHD" group-title="d.Nacionales 1",Austral TV | 🇪🇨 -2.EC | FHD
+#EXTINF:-1 tvg-id="88" tvg-name="Austral TV | 🇪🇨 -2.EC | FHD" group-title="d.Nacionales 1",Austral TV | 🇪🇨 -2.EC | FHD
 https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="90" tvg-name="Cascara TV | 🇩🇴 +1.DO" group-title="d.Nacionales 1",Cascara TV | 🇩🇴 +1.DO
+#EXTINF:-1 tvg-id="89" tvg-name="Cascara TV | 🇩🇴 +1.DO" group-title="d.Nacionales 1",Cascara TV | 🇩🇴 +1.DO
 https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="91" tvg-name="Canal 12 Metro TV | 🇦🇷 +2.AR" group-title="d.Nacionales 1",Canal 12 Metro TV | 🇦🇷 +2.AR
+#EXTINF:-1 tvg-id="90" tvg-name="Canal 12 Metro TV | 🇦🇷 +2.AR" group-title="d.Nacionales 1",Canal 12 Metro TV | 🇦🇷 +2.AR
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 
-#EXTINF:-1 tvg-id="92" tvg-name="Neo TV | 🇦🇷 +2.AR" group-title="d.Nacionales 1",Neo TV | 🇦🇷 +2.AR
+#EXTINF:-1 tvg-id="91" tvg-name="Neo TV | 🇦🇷 +2.AR" group-title="d.Nacionales 1",Neo TV | 🇦🇷 +2.AR
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
-#EXTINF:-1 tvg-id="93" tvg-name="Via Altomayo | 🇵🇪 -0.PE" group-title="d.Nacionales 1",Via Altomayo | 🇵🇪 -0.PE
+#EXTINF:-1 tvg-id="92" tvg-name="Via Altomayo | 🇵🇪 -0.PE" group-title="d.Nacionales 1",Via Altomayo | 🇵🇪 -0.PE
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
 
-#EXTINF:-1 tvg-id="94" tvg-name="Antares Television| 🇵🇪 -0.PE" group-title="d.Nacionales 1",Antares Television| 🇵🇪 -0.PE
+#EXTINF:-1 tvg-id="93" tvg-name="Antares Television | 🇵🇪 -0.PE" group-title="d.Nacionales 1",Antares Television | 🇵🇪 -0.PE
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/.m3u8
 
-#EXTINF:-1 tvg-id="95" tvg-name="Telecolor Yurimaguas | 🇵🇪 -0.PE | n24-7 | FHD" group-title="d.Nacionales 1",Telecolor Yurimaguas | 🇵🇪 -0.PE | n24-7 | FHD
+#EXTINF:-1 tvg-id="94" tvg-name="Telecolor Yurimaguas | 🇵🇪 -0.PE | n24-7 | FHD" group-title="d.Nacionales 1",Telecolor Yurimaguas | 🇵🇪 -0.PE | n24-7 | FHD
 https://live.obslivestream.com/telecolormux/index.m3u8
 
-#EXTINF:-1 tvg-id="96" tvg-name="Hechicera | 🇵🇪 -0.PE" group-title="d.Nacionales 1",Hechicera | 🇵🇪 -0.PE
+#EXTINF:-1 tvg-id="95" tvg-name="Hechicera | 🇵🇪 -0.PE" group-title="d.Nacionales 1",Hechicera | 🇵🇪 -0.PE
 https://video.misistemareseller.com/corporationhc/corporationhc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="97" tvg-name="Uranio TV | 🇵🇪 -0.PE | n24-7" group-title="d.Nacionales 1",Uranio TV | 🇵🇪 -0.PE | n24-7
+#EXTINF:-1 tvg-id="96" tvg-name="Uranio TV | 🇵🇪 -0.PE | n24-7" group-title="d.Nacionales 1",Uranio TV | 🇵🇪 -0.PE | n24-7
 https://live.obslivestream.com/uraniotv/index.m3u8
 
-#EXTINF:-1 tvg-id="98" tvg-name="Radio TV Oriente | 🇵🇪 -0.PE" group-title="d.Nacionales 1",Radio TV Oriente | 🇵🇪 -0.PE
+#EXTINF:-1 tvg-id="97" tvg-name="Radio TV Oriente | 🇵🇪 -0.PE" group-title="d.Nacionales 1",Radio TV Oriente | 🇵🇪 -0.PE
 https://live.obslivestream.com/tvoriente/index.m3u8
 
-#EXTINF:-1 tvg-id="99" tvg-name="Autentica Television | 🇵🇪 -0.PE" group-title="d.Nacionales 1",Autentica Television | 🇵🇪 -0.PE
+#EXTINF:-1 tvg-id="98" tvg-name="Autentica Television | 🇵🇪 -0.PE" group-title="d.Nacionales 1",Autentica Television | 🇵🇪 -0.PE
 https://live.obslivestream.com/autenticatvmux/index.m3u8
 
-#EXTINF:-1 tvg-id="100" tvg-name="Super Canal Yurimaguas | 🇵🇪 -0.PE" group-title="d.Nacionales 1",Super Canal Yurimaguas | 🇵🇪 -0.PE
+#EXTINF:-1 tvg-id="99" tvg-name="Super Canal Yurimaguas | 🇵🇪 -0.PE" group-title="d.Nacionales 1",Super Canal Yurimaguas | 🇵🇪 -0.PE
 https://live.obslivestream.com/supercanal/index.m3u8
 
-#EXTINF:-1 tvg-id="101" tvg-name="Gen TV | 🇦🇷 +2.AR" group-title="d.Nacionales 1",Gen TV | 🇦🇷 +2.AR
+#EXTINF:-1 tvg-id="100" tvg-name="Gen TV | 🇦🇷 +2.AR" group-title="d.Nacionales 1",Gen TV | 🇦🇷 +2.AR
 https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="102" tvg-name="Mix Bolivia TV | 🇧🇴 +1.BO" group-title="d.Nacionales 1",Mix Bolivia TV | 🇧🇴 +1.BO
+#EXTINF:-1 tvg-id="101" tvg-name="Mix Bolivia TV | 🇧🇴 +1.BO" group-title="d.Nacionales 1",Mix Bolivia TV | 🇧🇴 +1.BO
 https://live20.bozztv.com/giatv/giatv-NEOMIXHD/NEOMIXHD/chunks.m3u8
 
-#EXTINF:-1 tvg-id="103" tvg-name="RTV Riobamba | 🇪🇨 -2.EC | n24-7" group-title="d.Nacionales 1",RTV Riobamba | 🇪🇨 -2.EC | n24-7
+#EXTINF:-1 tvg-id="102" tvg-name="RTV Riobamba | 🇪🇨 -2.EC | n24-7" group-title="d.Nacionales 1",RTV Riobamba | 🇪🇨 -2.EC | n24-7
 https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8
 
-#EXTINF:-1 tvg-id="104" tvg-name="Max TV | 🇨🇴 -0.CO" group-title="d.Nacionales 1",Max TV | 🇨🇴 -0.CO
+#EXTINF:-1 tvg-id="103" tvg-name="Max TV | 🇨🇴 -0.CO" group-title="d.Nacionales 1",Max TV | 🇨🇴 -0.CO
 https://inliveserver.com:1936/8078/8078/playlist.m3u8
 
-#EXTINF:-1 tvg-id="105" tvg-name="Valle Nuevo TV | 🇩🇴 +1.DO | n24-7" group-title="d.Nacionales 1",Valle Nuevo TV | 🇩🇴 +1.DO | n24-7
+#EXTINF:-1 tvg-id="104" tvg-name="Valle Nuevo TV | 🇩🇴 +1.DO | n24-7" group-title="d.Nacionales 1",Valle Nuevo TV | 🇩🇴 +1.DO | n24-7
 https://media.streambrothers.com:1936/8262/8262/playlist.m3u8
 
-#EXTINF:-1 tvg-id="106" tvg-name="Opinion Sur Cine | 🇨🇱 +1.CL | FHD" group-title="d.Nacionales 1",Opinion Sur Cine | 🇨🇱 +1.CL | FHD
+#EXTINF:-1 tvg-id="105" tvg-name="Opinion Sur Cine | 🇨🇱 +1.CL | FHD" group-title="d.Nacionales 1",Opinion Sur Cine | 🇨🇱 +1.CL | FHD
 https://live20.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="107" tvg-name="Bonches Latinos TV | 🇩🇴 +1.DO | FHD" group-title="d.Nacionales 1",Bonches Latinos TV | 🇩🇴 +1.DO | FHD
+#EXTINF:-1 tvg-id="106" tvg-name="Bonches Latinos TV | 🇩🇴 +1.DO | FHD" group-title="d.Nacionales 1",Bonches Latinos TV | 🇩🇴 +1.DO | FHD
 https://5790d294af2dc.streamlock.net/latinostv/latinostv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="108" tvg-name="Ciudad Magazine | 🇦🇷 +2.AR | FHD" group-title="d.Nacionales 1",Ciudad Magazine | 🇦🇷 +2.AR | FHD
+#EXTINF:-1 tvg-id="107" tvg-name="Ciudad Magazine | 🇦🇷 +2.AR | FHD" group-title="d.Nacionales 1",Ciudad Magazine | 🇦🇷 +2.AR | FHD
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
-#EXTINF:-1 tvg-id="109" tvg-name="Villa Altagracia TV | 🇩🇴 +1.DO | FHD" group-title="d.Nacionales 1",Villa Altagracia TV | 🇩🇴 +1.DO | FHD
+#EXTINF:-1 tvg-id="108" tvg-name="Villa Altagracia TV | 🇩🇴 +1.DO | FHD" group-title="d.Nacionales 1",Villa Altagracia TV | 🇩🇴 +1.DO | FHD
 https://inliveserver.com:1936/10016/10016/playlist.m3u8
 
-#EXTINF:-1 tvg-id="110" tvg-name="BellaVision | 🇩🇴 +1.DO | FHD" group-title="d.Nacionales 1",BellaVision | 🇩🇴 +1.DO | FHD
+#EXTINF:-1 tvg-id="109" tvg-name="BellaVision | 🇩🇴 +1.DO | FHD" group-title="d.Nacionales 1",BellaVision | 🇩🇴 +1.DO | FHD
 https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
 
-#EXTINF:-1 tvg-id="111" tvg-name="Aion TV | 🇩🇴 +1.DO | FHD" group-title="d.Nacionales 1",Aion TV | 🇩🇴 +1.DO | FHD
+#EXTINF:-1 tvg-id="110" tvg-name="Aion TV | 🇩🇴 +1.DO | FHD" group-title="d.Nacionales 1",Aion TV | 🇩🇴 +1.DO | FHD
 https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
 
-#EXTINF:-1 tvg-id="112" tvg-name="TeleVer | 🇩🇴 +1.DO | n24-7 | FHD" group-title="d.Nacionales 1",TeleVer | 🇩🇴 +1.DO | n24-7 | FHD
+#EXTINF:-1 tvg-id="111" tvg-name="TeleVer | 🇩🇴 +1.DO | n24-7 | FHD" group-title="d.Nacionales 1",TeleVer | 🇩🇴 +1.DO | n24-7 | FHD
 https://soportedvb.click:3413/live/televerlive.m3u8
 
-#EXTINF:-1 tvg-id="113" tvg-name="Onda TV | 🇩🇴 +1.DO" group-title="e.Nacionales 2",Onda TV | 🇩🇴 +1.DO
+#EXTINF:-1 tvg-id="112" tvg-name="Onda TV | 🇩🇴 +1.DO" group-title="e.Nacionales 2",Onda TV | 🇩🇴 +1.DO
 https://cnn.hostlagarto.com/ondatv/index.m3u8
 
-#EXTINF:-1 tvg-id="114" tvg-name="Canal 34 San Juan | 🇦🇷 +2.AR | n24-7" group-title="e.Nacionales 2",Canal 34 San Juan | 🇦🇷 +2.AR | n24-7
+#EXTINF:-1 tvg-id="113" tvg-name="Canal 34 San Juan | 🇦🇷 +2.AR | n24-7" group-title="e.Nacionales 2",Canal 34 San Juan | 🇦🇷 +2.AR | n24-7
 https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="115" tvg-name="Univers TV | 🇪🇸 +7.ES" group-title="e.Nacionales 2",Univers TV | 🇪🇸 +7.ES
+#EXTINF:-1 tvg-id="114" tvg-name="Univers TV | 🇪🇸 +7.ES" group-title="e.Nacionales 2",Univers TV | 🇪🇸 +7.ES
 https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8
 
-#EXTINF:-1 tvg-id="116" tvg-name="Clan TVE | 🇪🇸 +7.ES" group-title="e.Nacionales 2",Clan TVE | 🇪🇸 +7.ES
+#EXTINF:-1 tvg-id="115" tvg-name="Clan TVE | 🇪🇸 +7.ES" group-title="e.Nacionales 2",Clan TVE | 🇪🇸 +7.ES
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15620&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&preroll_duration=30&preroll=1
 
-#EXTINF:-1 tvg-id="117" tvg-name="Canal 10 Costa Rica | 🇨🇷 -1.CR | n24-7" group-title="e.Nacionales 2",Canal 10 Costa Rica | 🇨🇷 -1.CR | n24-7
+#EXTINF:-1 tvg-id="116" tvg-name="Canal 10 Costa Rica | 🇨🇷 -1.CR | n24-7" group-title="e.Nacionales 2",Canal 10 Costa Rica | 🇨🇷 -1.CR | n24-7
 https://acceso.radiosportstv.online:3285/live/canal10costaricalive.m3u8
 
-#EXTINF:-1 tvg-id="118" tvg-name="Tele+ | 🇨🇷 -1.CR" group-title="e.Nacionales 2",Tele+ | 🇨🇷 -1.CR
+#EXTINF:-1 tvg-id="117" tvg-name="Tele+ | 🇨🇷 -1.CR" group-title="e.Nacionales 2",Tele+ | 🇨🇷 -1.CR
 https://mist01.homestream.fun/hls/tlmas904/0_1/index.m3u8
 
-#EXTINF:-1 tvg-id="119" tvg-name="Sol TV | 🇬🇹 -1.GT" group-title="e.Nacionales 2",Sol TV | 🇬🇹 -1.GT
+#EXTINF:-1 tvg-id="118" tvg-name="Sol TV | 🇬🇹 -1.GT" group-title="e.Nacionales 2",Sol TV | 🇬🇹 -1.GT
 https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
 
-#EXTINF:-1 tvg-id="120" tvg-name="TeleBrunca | 🇨🇷 -1.CR | n24-7" group-title="e.Nacionales 2",TeleBrunca | 🇨🇷 -1.CR | n24-7
+#EXTINF:-1 tvg-id="119" tvg-name="TeleBrunca | 🇨🇷 -1.CR | n24-7" group-title="e.Nacionales 2",TeleBrunca | 🇨🇷 -1.CR | n24-7
 https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8
 
-#EXTINF:-1 tvg-id="121" tvg-name="Onza TV | 🇻🇪 +1.VE" group-title="e.Nacionales 2",Onza TV | 🇻🇪 +1.VE
+#EXTINF:-1 tvg-id="120" tvg-name="Onza TV | 🇻🇪 +1.VE" group-title="e.Nacionales 2",Onza TV | 🇻🇪 +1.VE
 https://stmv1.srvstm.com/gproducciones/gproducciones/playlist.m3u8
 
-#EXTINF:-1 tvg-id="122" tvg-name="Apanines TV | 🇨🇱 +1.CL" group-title="e.Nacionales 2",Apanines TV | 🇨🇱 +1.CL
+#EXTINF:-1 tvg-id="121" tvg-name="Apanines TV | 🇨🇱 +1.CL" group-title="e.Nacionales 2",Apanines TV | 🇨🇱 +1.CL
 https://live20.bozztv.com/akamaissh101/ssh101/apaninestv2025/chunks.m3u8
 
-#EXTINF:-1 tvg-id="123" tvg-name="Nexxo TV | 🇩🇴 +1.DO" group-title="e.Nacionales 2",Nexxo TV | 🇩🇴 +1.DO
+#EXTINF:-1 tvg-id="122" tvg-name="Nexxo TV | 🇩🇴 +1.DO" group-title="e.Nacionales 2",Nexxo TV | 🇩🇴 +1.DO
 https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
 
-#EXTINF:-1 tvg-id="124" tvg-name="Garabito TV | 🇨🇷 -1.CR" group-title="e.Nacionales 2",Garabito TV | 🇨🇷 -1.CR
+#EXTINF:-1 tvg-id="123" tvg-name="Garabito TV | 🇨🇷 -1.CR" group-title="e.Nacionales 2",Garabito TV | 🇨🇷 -1.CR
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="125" tvg-name="Orbit TV | 🇩🇴 +1.DO" group-title="e.Nacionales 2",Orbit TV | 🇩🇴 +1.DO
+#EXTINF:-1 tvg-id="124" tvg-name="Orbit TV | 🇩🇴 +1.DO" group-title="e.Nacionales 2",Orbit TV | 🇩🇴 +1.DO
 https://vdo2.streamgato.us:3670/live/orbittvlive.m3u8
 
-#EXTINF:-1 tvg-id="126" tvg-name="Canal 9 Barbe TV | 🇬🇹 -1.GT | n24-7" group-title="e.Nacionales 2",Canal 9 Barbe TV | 🇬🇹 -1.GT | n24-7
+#EXTINF:-1 tvg-id="125" tvg-name="Canal 9 Barbe TV | 🇬🇹 -1.GT | n24-7" group-title="e.Nacionales 2",Canal 9 Barbe TV | 🇬🇹 -1.GT | n24-7
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 
-#EXTINF:-1 tvg-id="127" tvg-name="Atacama TV | 🇨🇱 +1.CL" group-title="e.Nacionales 2",Atacama TV | 🇨🇱 +1.CL
+#EXTINF:-1 tvg-id="126" tvg-name="Atacama TV | 🇨🇱 +1.CL" group-title="e.Nacionales 2",Atacama TV | 🇨🇱 +1.CL
 https://v2.tustreaming.cl/atacamatv/index.m3u8
 
-#EXTINF:-1 tvg-id="128" tvg-name="Santa Maria Television |🇨🇱 +1.CL" group-title="e.Nacionales 2",Santa Maria Television |🇨🇱 +1.CL
+#EXTINF:-1 tvg-id="127" tvg-name="Santa Maria Television |🇨🇱 +1.CL" group-title="e.Nacionales 2",Santa Maria Television |🇨🇱 +1.CL
 https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="129" tvg-name="Dan TV | 🇩🇴 +1.DO" group-title="e.Nacionales 2",Dan TV | 🇩🇴 +1.DO
+#EXTINF:-1 tvg-id="128" tvg-name="Dan TV | 🇩🇴 +1.DO" group-title="e.Nacionales 2",Dan TV | 🇩🇴 +1.DO
 https://vdo2.streamgato.us:3562/live/dantvlive.m3u8
 
-#EXTINF:-1 tvg-id="130" tvg-name="Latina TV Internacional | 🇩🇴 +1.DO" group-title="e.Nacionales 2",Latina TV Internacional | 🇩🇴 +1.DO
+#EXTINF:-1 tvg-id="129" tvg-name="Latina TV Internacional | 🇩🇴 +1.DO" group-title="e.Nacionales 2",Latina TV Internacional | 🇩🇴 +1.DO
 https://5790d294af2dc.streamlock.net/latinatv/latinatv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="131" tvg-name="Nim TV | 🇬🇹 -1.GT | n24-7" group-title="e.Nacionales 2",Nim TV | 🇬🇹 -1.GT | n24-7
+#EXTINF:-1 tvg-id="130" tvg-name="Nim TV | 🇬🇹 -1.GT | n24-7" group-title="e.Nacionales 2",Nim TV | 🇬🇹 -1.GT | n24-7
 https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
 
-#EXTINF:-1 tvg-id="132" tvg-name="Vision TV | 🇬🇹 -1.GT" group-title="e.Nacionales 2",Vision TV | 🇬🇹 -1.GT
+#EXTINF:-1 tvg-id="131" tvg-name="Vision TV | 🇬🇹 -1.GT" group-title="e.Nacionales 2",Vision TV | 🇬🇹 -1.GT
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 
-#EXTINF:-1 tvg-id="133" tvg-name="MicroVision | 🇩🇴 +1.DO" group-title="e.Nacionales 2",MicroVision | 🇩🇴 +1.DO
+#EXTINF:-1 tvg-id="132" tvg-name="MicroVision | 🇩🇴 +1.DO" group-title="e.Nacionales 2",MicroVision | 🇩🇴 +1.DO
 https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 
-#EXTINF:-1 tvg-id="134" tvg-name="Bayres TV | 🇦🇷 +2.AR | n24-7" group-title="e.Nacionales 2",Bayres TV | 🇦🇷 +2.AR | n24-7
+#EXTINF:-1 tvg-id="133" tvg-name="Bayres TV | 🇦🇷 +2.AR | n24-7" group-title="e.Nacionales 2",Bayres TV | 🇦🇷 +2.AR | n24-7
 https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="135" tvg-name="Cenovision HD | 🇩🇴 +1.DO" group-title="e.Nacionales 2",Cenovision HD | 🇩🇴 +1.DO
+#EXTINF:-1 tvg-id="134" tvg-name="Cenovision HD | 🇩🇴 +1.DO" group-title="e.Nacionales 2",Cenovision HD | 🇩🇴 +1.DO
 https://5790d294af2dc.streamlock.net/cenovision/cenovision/playlist.m3u8
 
-#EXTINF:-1 tvg-id="136" tvg-name="Zonavision TV | 🇩🇴 +1.DO | n24-7" group-title="e.Nacionales 2",Zonavision TV | 🇩🇴 +1.DO | n24-7
+#EXTINF:-1 tvg-id="135" tvg-name="Zonavision TV | 🇩🇴 +1.DO | n24-7" group-title="e.Nacionales 2",Zonavision TV | 🇩🇴 +1.DO | n24-7
 https://ds.tvabierta.net/memfs/b295f254-7af9-45e4-bfc6-7e0bba41929d.m3u8
 
-#EXTINF:-1 tvg-id="137" tvg-name="Palmar TV | 🇩🇴 +1.DO | n24-7" group-title="e.Nacionales 2",Palmar TV | 🇩🇴 +1.DO | n24-7
+#EXTINF:-1 tvg-id="136" tvg-name="Palmar TV | 🇩🇴 +1.DO | n24-7" group-title="e.Nacionales 2",Palmar TV | 🇩🇴 +1.DO | n24-7
 https://streamunoapp.com:3255/live/palmartvlive.m3u8
 
-#EXTINF:-1 tvg-id="138" tvg-name="TVS | 🇻🇪 +1.VE" group-title="e.Nacionales 2",TVS | 🇻🇪 +1.VE
+#EXTINF:-1 tvg-id="137" tvg-name="TVS | 🇻🇪 +1.VE" group-title="e.Nacionales 2",TVS | 🇻🇪 +1.VE
 https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8
 
-#EXTINF:-1 tvg-id="139" tvg-name="Aguacate TV | 🇻🇪 +1.VE | FHD" group-title="e.Nacionales 2",Aguacate TV | 🇻🇪 +1.VE | FHD
+#EXTINF:-1 tvg-id="138" tvg-name="Aguacate TV | 🇻🇪 +1.VE | FHD" group-title="e.Nacionales 2",Aguacate TV | 🇻🇪 +1.VE | FHD
 https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="140" tvg-name="San Isidro TV | 🇩🇴 +1.DO | n24-7" group-title="e.Nacionales 2",San Isidro TV | 🇩🇴 +1.DO | n24-7
+#EXTINF:-1 tvg-id="139" tvg-name="San Isidro TV | 🇩🇴 +1.DO | n24-7" group-title="e.Nacionales 2",San Isidro TV | 🇩🇴 +1.DO | n24-7
 https://rdn.essastream.com:3160/live/sanisidrotvlive.m3u8
 
-#EXTINF:-1 tvg-id="141" tvg-name="Anzoategui TV | 🇻🇪 +1.VE" group-title="e.Nacionales 2",Anzoategui TV | 🇻🇪 +1.VE
+#EXTINF:-1 tvg-id="140" tvg-name="Anzoategui TV | 🇻🇪 +1.VE" group-title="e.Nacionales 2",Anzoategui TV | 🇻🇪 +1.VE
 https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="142" tvg-name="360 RFTV | 🇨🇷 -1.CR" group-title="e.Nacionales 2",360 RFTV | 🇨🇷 -1.CR
+#EXTINF:-1 tvg-id="141" tvg-name="360 RFTV | 🇨🇷 -1.CR" group-title="e.Nacionales 2",360 RFTV | 🇨🇷 -1.CR
 https://acceso.radiosportstv.online:3417/live/360rftvcrlive.m3u8
 
-#EXTINF:-1 tvg-id="143" tvg-name="Oli TV | 🇨🇱 +1.CL | FHD" group-title="e.Nacionales 2",Oli TV | 🇨🇱 +1.CL | FHD
+#EXTINF:-1 tvg-id="142" tvg-name="Oli TV | 🇨🇱 +1.CL | FHD" group-title="e.Nacionales 2",Oli TV | 🇨🇱 +1.CL | FHD
 https://v4.tustreaming.cl/retroplaytv/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="144" tvg-name="Telemax | 🇩🇴 +1.DO | FHD" group-title="e.Nacionales 2",Telemax | 🇩🇴 +1.DO | FHD
+#EXTINF:-1 tvg-id="143" tvg-name="Telemax | 🇩🇴 +1.DO | FHD" group-title="e.Nacionales 2",Telemax | 🇩🇴 +1.DO | FHD
 https://vdo2.streamgato.us:3673/live/telemaxlive.m3u8
 
-#EXTINF:-1 tvg-id="145" tvg-name="TeleCosta | 🇬🇹 -1.GT" group-title="e.Nacionales 2",TeleCosta | 🇬🇹 -1.GT
+#EXTINF:-1 tvg-id="144" tvg-name="TeleCosta | 🇬🇹 -1.GT" group-title="e.Nacionales 2",TeleCosta | 🇬🇹 -1.GT
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
-#EXTINF:-1 tvg-id="146" tvg-name="Next HD | 🇵🇾 +2.PY" group-title="e.Nacionales 2",Next HD | 🇵🇾 +2.PY
+#EXTINF:-1 tvg-id="145" tvg-name="Next HD | 🇵🇾 +2.PY" group-title="e.Nacionales 2",Next HD | 🇵🇾 +2.PY
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
-#EXTINF:-1 tvg-id="147" tvg-name="TV Florencia | 🇬🇹 -1.GT" group-title="e.Nacionales 2",TV Florencia | 🇬🇹 -1.GT
+#EXTINF:-1 tvg-id="146" tvg-name="TV Florencia | 🇬🇹 -1.GT" group-title="e.Nacionales 2",TV Florencia | 🇬🇹 -1.GT
 https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8
 
-#EXTINF:-1 tvg-id="148" tvg-name="TCS+ | 🇸🇻 -1.SV" group-title="e.Nacionales 2",TCS+ | 🇸🇻 -1.SV
-https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
+#EXTINF:-1 tvg-id="147" tvg-name="ATV Sur | 🇵🇪 -0.PE" group-title="f.Nacionales 3",ATV Sur | 🇵🇪 -0.PE
+https://d2qsan2ut81n2k.cloudfront.net/live/1dedd057-0bc1-44a7-a747-bd52e12166b3/ts:abr.m3u8
+
+#EXTINF:-1 tvg-id="148" tvg-name="ATV | 🇵🇪 -0.PE" group-title="f.Nacionales 3",ATV | 🇵🇪 -0.PE
+https://d2qsan2ut81n2k.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/ts:abr.m3u8
+
+#EXTINF:-1 tvg-id="149" tvg-name="ATV+ | 🇵🇪 -0.PE" group-title="f.Nacionales 3",ATV+ | 🇵🇪 -0.PE
+https://d2qsan2ut81n2k.cloudfront.net/live/77eece7f-8de5-4406-9f7e-7be16d81f2ce/ts:abr.m3u8
+
+#EXTINF:-1 tvg-id="150" tvg-name="12.1 Vision Sur | 🇵🇪 -0.PE | FHD" group-title="f.Nacionales 3",12.1 Vision Sur | 🇵🇪 -0.PE | FHD
+https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
+
+#EXTINF:-1 tvg-id="151" tvg-name="Exitosa TV | 🇵🇪 -0.PE" group-title="f.Nacionales 3",Exitosa TV | 🇵🇪 -0.PE
+https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/index.m3u8
+
+#EXTINF:-1 tvg-id="152" tvg-name="Conecta2 TV | 🇵🇪 -0.PE" group-title="f.Nacionales 3",Conecta2 TV | 🇵🇪 -0.PE
+https://live.obslivestream.com/conecta2/index.m3u8
+
+#EXTINF:-1 tvg-id="153" tvg-name="RCR Red de Comunicacion Regional | 🇵🇪 -0.PE" group-title="f.Nacionales 3",RCR Red de Comunicacion Regional | 🇵🇪 -0.PE
+https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="154" tvg-name="Willax TV | 🇵🇪 -0.PE" group-title="f.Nacionales 3",Willax TV | 🇵🇪 -0.PE
+http://38.183.182.166:8000/play/a0zn/index.m3u8
+
+#EXTINF:-1 tvg-id="155" tvg-name="RPP TV | 🇵🇪 -0.PE" group-title="f.Nacionales 3",RPP TV | 🇵🇪 -0.PE
+http://38.183.182.166:8000/play/a13g/index.m3u8
+
+#EXTINF:-1 tvg-id="156" tvg-name="TV Peruanisima | 🇵🇪 -0.PE" group-title="f.Nacionales 3",TV Peruanisima | 🇵🇪 -0.PE
+https://k20.usastreams.com:8081/tvperuanisima/index.m3u8
+
+#EXTINF:-1 tvg-id="157" tvg-name="DirecTV Sports | 🇵🇪 -0.PE" group-title="f.Nacionales 3",DirecTV Sports | 🇵🇪 -0.PE
+http://38.183.182.166:8000/play/a125/index.m3u8
+
+#EXTINF:-1 tvg-id="158" tvg-name="Gol Peru | 🇵🇪 -0.PE" group-title="f.Nacionales 3",Gol Peru | 🇵🇪 -0.PE
+http://38.183.182.166:8000/play/a120/index.m3u8
+
+#EXTINF:-1 tvg-id="159" tvg-name="L1 Max | 🇵🇪 -0.PE" group-title="f.Nacionales 3",L1 Max | 🇵🇪 -0.PE
+http://38.183.182.166:8000/play/a12t/index.m3u8
+
+#EXTINF:-1 tvg-id="160" tvg-name="Ovacion TV | 🇵🇪 -0.PE" group-title="f.Nacionales 3",Ovacion TV | 🇵🇪 -0.PE
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
