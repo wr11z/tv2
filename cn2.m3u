@@ -110,224 +110,224 @@ https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8
 #EXTINF:-1 tvg-id="37" tvg-name="Pelis Kids | LAT" group-title="b.Series-Peliculas",Pelis Kids | LAT
 https://live20.bozztv.com/akamaissh101/ssh101/monitvhd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="38" tvg-name="Wow Movies | LAT" group-title="b.Series-Peliculas",Wow Movies | LAT
-https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/chunks.m3u8
-
-#EXTINF:-1 tvg-id="39" tvg-name="Frecuencia Musical TV | LAT" group-title="b.Series-Peliculas",Frecuencia Musical TV | LAT
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=13014
-
-#EXTINF:-1 tvg-id="40" tvg-name="Cine Sony | LAT" group-title="b.Series-Peliculas",Cine Sony | LAT
-https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="41" tvg-name="Sony One Cinema | LAT | FHD" group-title="b.Series-Peliculas",Sony One Cinema | LAT | FHD
-https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="42" tvg-name="Sony Accion | ESP" group-title="b.Series-Peliculas",Sony Accion | ESP
-https://de9yx47crxs6l.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 tvg-id="43" tvg-name="USA TV Network | LAT" group-title="b.Series-Peliculas",USA TV Network | LAT
-http://103.111.40.242:9999/play/a04b/index.m3u8
-
-#EXTINF:-1 tvg-id="44" tvg-name="Cinema Platino | SUB" group-title="b.Series-Peliculas",Cinema Platino | SUB
-http://103.111.40.242:9999/play/a00x/index.m3u8
-
-#EXTINF:-1 tvg-id="45" tvg-name="New KMovies | SUB" group-title="b.Series-Peliculas",New KMovies | SUB
-https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=newkmovies&channel_id=newid_012&mpf=39aa2dab-39af1962-4de8e517&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=b649dc44-4adb999b-6ceb498a-3dab0337&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
-
-#EXTINF:-1 tvg-id="46" tvg-name="Rakuten TV Family Movies | ESP" group-title="b.Series-Peliculas",Rakuten TV Family Movies | ESP
-https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8
-
-#EXTINF:-1 tvg-id="47" tvg-name="Rakuten TV Action Movies | ESP" group-title="b.Series-Peliculas",Rakuten TV Action Movies | ESP
-https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
-
-#EXTINF:-1 tvg-id="48" tvg-name="Rakuten TV Top Movies | ESP" group-title="b.Series-Peliculas",Rakuten TV Top Movies | ESP
-https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
-
-#EXTINF:-1 tvg-id="49" tvg-name="Rakuten TV Comedy Movies | ESP" group-title="b.Series-Peliculas",Rakuten TV Comedy Movies | ESP
-https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8
-
-#EXTINF:-1 tvg-id="50" tvg-name="Rakuten TV Drama Movies | ESP" group-title="b.Series-Peliculas",Rakuten TV Drama Movies | ESP
-https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8
-
-#EXTINF:-1 tvg-id="51" tvg-name="Rakuten TV Romance Movies | ESP" group-title="b.Series-Peliculas",Rakuten TV Romance Movies | ESP
-https://4b95c0f7aa2b4cae80f6515600154151.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8
-
-#EXTINF:-1 tvg-id="52" tvg-name="Rakuten TV Cine | ESP" group-title="b.Series-Peliculas",Rakuten TV Cine | ESP
-https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8
-
-#EXTINF:-1 tvg-id="53" tvg-name="Rakuten TV Sci-Fi | ESP" group-title="b.Series-Peliculas",Rakuten TV Sci-Fi | ESP
-https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8
-
-#EXTINF:-1 tvg-id="54" tvg-name="Rakuten TV Thriller | ESP" group-title="b.Series-Peliculas",Rakuten TV Thriller | ESP
-https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8
-
-#EXTINF:-1 tvg-id="55" tvg-name="LG 1 | ESP" group-title="b.Series-Peliculas",LG 1 | ESP
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=12783&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
-
-#EXTINF:-1 tvg-id="56" tvg-name="LG 1: Film | ESP" group-title="b.Series-Peliculas",LG 1: Film | ESP
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=13953&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
-
-#EXTINF:-1 tvg-id="57" tvg-name="LG 1: Spotlight | ESP" group-title="b.Series-Peliculas",LG 1: Spotlight | ESP
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=13958&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
-
-#EXTINF:-1 tvg-id="58" tvg-name="AMC | LAT" group-title="b.Series-Peliculas",AMC | LAT
-https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="59" tvg-name="Electric Now | LAT" group-title="b.Series-Peliculas",Electric Now | LAT
-https://s8host2.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config10/playlist.m3u8?ads.cdnhost=s8host2.localnow.api.cms.amdvids.com&ads.playbackid=56D5091D-B42A-4A99-8C50-6DBF198F0C49&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=56D5091D-B42A-4A99-8C50-6DBF198F0C49&ads.n4=content_name&ads.v4=Electric%20Now%20en%20Espanol&ads.n21=h&ads.v21=1080&ads.n22=content_provider&ads.v22=electricnow-en-espanol&ads.n23=ua&ads.v23=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n24=content_type&ads.v24=channel&ads.n25=channel_rating&ads.v25=TV-PG&ads.n26=content_custom_2_param&ads.v26=AMDB013335&ads.n27=app_bundle&ads.v27=&ads.n28=content_livestream&ads.v28=1&ads.n29=device_model&ads.v29=&ads.n30=channel_corp&ads.v30=Electric%20Entertainment&ads.n31=app_store_url&ads.v31=&ads.n32=channel_id&ads.v32=56D5091D-B42A-4A99-8C50-6DBF198F0C49&ads.n33=cust_devicename&ads.v33=desktop_web&ads.n34=channel_brand_id&ads.v34=AMDB013335&ads.n35=w&ads.v35=1920&ads.n36=channel_company_id&ads.v36=AMDP500133&ads.n37=dnt&ads.v37=&ads.n38=channel_ext_id&ads.v38=&ads.n39=channel_language&ads.v39=es&ads.n40=device_make&ads.v40=&ads.n41=pos&ads.v41=midroll&ads.n42=app_version&ads.v42=0.0.0&ads.n43=device_type&ads.v43=&ads.n44=content_custom_3_param&ads.v44=channel&ads.n45=app_name&ads.v45=&ads.n46=ip&ads.v46=195.179.200.80&ads.n47=channel_title&ads.v47=Electric%20Now%20en%20Espanol&ads.n48=content_custom_1_param&ads.v48=56D5091D-B42A-4A99-8C50-6DBF198F0C49&ads.n49=gpp&ads.v49=&ads.n50=gpp_sid&ads.v50=&ads.n51=channel_genre&ads.v51=Entertainment&ads.n52=ifa_type&ads.v52=&ads.n53=us_privacy&ads.v53=1YNY&ads.n54=network_name&ads.v54=electricnow-en-espanol&ads.n55=did&ads.v55=&ads.n56=channel_name&ads.v56=Electric%20Now%20en%20Espanol&ads.n57=content_producer_name&ads.v57=Electric%20Entertainment&ads.n58=url&ads.v58=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal
-
-#EXTINF:-1 tvg-id="60" tvg-name="Xumo | LAT" group-title="b.Series-Peliculas",Xumo | LAT
-https://d6b383jzkrtyn.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992262&ads.caid=PeliculasGratis&ads.csid=lgchannels_[COUNTRY]_XumoPeliculasGratis_ssai&ads.lat=&ads.lon=&ads.os=webOS&ads.osv=&ads.xumo_platform=lg&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_content_category=IAB1-7&ads._fw_content_genre=Movies&ads._fw_content_language=es&ads._fw_content_rating=TV-PG&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_gdpr=[GDPR]&ads._fw_gdpr_consent=[GDPR_CONSENT]&ads._fw_h_x_country=[COUNTRY]&ads.appName=[APP_NAME]&ads.xumo_contentId=5&ads.xumo_contentName=XumoAggregate&ads.xumo_providerId=5&ads.xumo_providerName=XumoAggregate&ads.channelId=99992262&ads.xumo_imdb_genre=Action%252CAdventure%252CComedy%252CCrime%252CDrama%252CFamily%252CFantasy%252CHorror%252CMystery%252CRomance%252CSci-Fi%252CThriller%252CWar%252CWestern%252CSuperhero&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_app_bundle=[APP_BUNDLE]&ads.appVersion=[APP_VERSION]&ads.amznappId=61009c470a264b7c8322f1c45792cc5c&ads.amznslotId=9c67d46e-238a-49e6-a34f-f50fe8eed913&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
-
-#EXTINF:-1 tvg-id="61" tvg-name="Zylo Cine Friki | ESP" group-title="b.Series-Peliculas",Zylo Cine Friki | ESP
-https://zylo-cinefriki-rakuten.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="62" tvg-name="Cindie | SUB" group-title="b.Series-Peliculas",Cindie | SUB
-https://d20xuwbyc4yoag.cloudfront.net/scheduler/scheduleMaster/387.m3u8
-
-#EXTINF:-1 tvg-id="63" tvg-name="MyTime | ESP" group-title="b.Series-Peliculas",MyTime | ESP
-https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="64" tvg-name="Runtime | LAT" group-title="b.Series-Peliculas",Runtime | LAT
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=13231&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
-
-#EXTINF:-1 tvg-id="65" tvg-name="ArtFlix | LAT" group-title="b.Series-Peliculas",ArtFlix | LAT
-https://amogonetworx-artflix-3-mx.tcl.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="66" tvg-name="FilmRise | LAT" group-title="b.Series-Peliculas",FilmRise | LAT
-https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889309
-
-#EXTINF:-1 tvg-id="67" tvg-name="Butaca TV | LAT" group-title="b.Series-Peliculas",Butaca TV | LAT
-https://linear-842.frequency.stream/dist/tcltv/842/hls/master/playlist.m3u8?ads.dnt=DNT&ads.ic=IC&ads.duration=DURATION&ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.device_id=DID&ads.device_make=DEVICE_MAKE&ads.device_model=DEVICE_MODEL&ads.brand_name=BRAND_NAME&ads.ifa_type=IFA_TYPE&ads.gdpr_consent=GDPR_CONSENT&ads.gdpr=GDPR&ads.us_privacy=US_PRIVACY&ads.coppa=COPPA&ads.lmt=LMT&ads.gpp_sid=GPP_SID&ads.gpp=GPP&ads.csid=CSID
-
-#EXTINF:-1 tvg-id="68" tvg-name="Extrema TV | LAT" group-title="b.Series-Peliculas",Extrema TV | LAT
-https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
-
-#EXTINF:-1 tvg-id="69" tvg-name="CineCanal | LAT" group-title="b.Series-Peliculas",CineCanal | LAT
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
-
-#EXTINF:-1 tvg-id="70" tvg-name="+Cine | LAT" group-title="b.Series-Peliculas",+Cine | LAT
-https://atresmedia-ceries-1-us.plex.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="71" tvg-name="Big Time | LAT" group-title="b.Series-Peliculas",Big Time | LAT
-https://amogonetworx-bigtjme-2-mx.tcl.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="72" tvg-name="LifeTime | LAT" group-title="b.Series-Peliculas",LifeTime | LAT
-http://103.111.40.242:9999/play/a049/index.m3u8
-
-#EXTINF:-1 tvg-id="73" tvg-name="Spark TV 1 | LAT" group-title="b.Series-Peliculas",Spark TV 1 | LAT
-https://candlelightmedia-sparklightlove-2-mx.tcl.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="74" tvg-name="Spark TV 2 | LAT" group-title="b.Series-Peliculas",Spark TV 2 | LAT
-https://68fa646cfc3f456983d7e97be9b62c64.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG-mx_SparkTV/playlist.m3u8
-
-#EXTINF:-1 tvg-id="75" tvg-name="Rakuten Viki | SUB" group-title="c.Novela-CATV",Rakuten Viki | SUB
-https://220f14502d694f3cb7f6a078aeaa4147.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-mx_RakutenViki/playlist.m3u8
-
-#EXTINF:-1 tvg-id="76" tvg-name="K-Drama by MBC | LAT" group-title="c.Novela-CATV",K-Drama by MBC | LAT
-https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=k-dramabymbc&channel_id=newid_337&mpf=79b005ff-39af1962-c7319ae1&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=5dfff943-067be473-85f3955b-710b7edf&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
-
-#EXTINF:-1 tvg-id="77" tvg-name="ROMCOM K-Drama | LAT" group-title="c.Novela-CATV",ROMCOM K-Drama | LAT
-https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=romcomk-drama&channel_id=newid_232&mpf=08189b47-39af1962-368759c4&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=7e44fa59-d887b105-7d1f1344-aff72ba9&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
-
-#EXTINF:-1 tvg-id="78" tvg-name="Vive Kanal D Drama | LAT" group-title="c.Novela-CATV",Vive Kanal D Drama | LAT
-https://thema-vivekanald-rakuten.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="79" tvg-name="Zee Mundo | LAT" group-title="c.Novela-CATV",Zee Mundo | LAT
-https://amg17931-amg17931c3-ondemandkorea-amesia-4897.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeemundo-ondemandkoreaamesia/playlist.m3u8?app_name=AmasianTV&app_store_url=https%3A%2F%2Famasian.tv&genre=Television&ic=IAB1-7&us_privacy=1---&
-
-#EXTINF:-1 tvg-id="80" tvg-name="RCN Novelas | LAT" group-title="c.Novela-CATV",RCN Novelas | LAT
-http://103.111.40.242:9999/play/a03k/index.m3u8
-
-#EXTINF:-1 tvg-id="81" tvg-name="TNT Novelas | LAT" group-title="c.Novela-CATV",TNT Novelas | LAT
-http://200.115.96.66:4000/play/a01p/index.m3u8
-
-#EXTINF:-1 tvg-id="82" tvg-name="El 5 | LAT" group-title="c.Novela-CATV",El 5 | LAT
-http://104.238.205.28:8989/278330_.m3u8
-
-#EXTINF:-1 tvg-id="83" tvg-name="5 Chiva TV | LAT" group-title="c.Novela-CATV",5 Chiva TV | LAT
-http://181.78.106.127:9000/play/ca005/index.m3u8
-
-#EXTINF:-1 tvg-id="84" tvg-name="Studio Universal | LAT" group-title="c.Novela-CATV",Studio Universal | LAT
-http://103.111.40.242:9999/play/a020/index.m3u8
-
-#EXTINF:-1 tvg-id="85" tvg-name="Universal TV | LAT" group-title="c.Novela-CATV",Universal TV | LAT
-http://103.111.40.242:9999/play/a047/index.m3u8
-
-#EXTINF:-1 tvg-id="86" tvg-name="AXN | LAT" group-title="c.Novela-CATV",AXN | LAT
-http://104.238.205.28:8989/278385_.m3u8
-
-#EXTINF:-1 tvg-id="87" tvg-name="AXN 2 | LAT" group-title="c.Novela-CATV",AXN 2 | LAT
-http://181.78.106.127:9000/play/ca085/index.m3u8
-
-#EXTINF:-1 tvg-id="88" tvg-name="CineMax | LAT" group-title="c.Novela-CATV",CineMax | LAT
-http://181.78.106.127:9000/play/ca079/index.m3u8
-
-#EXTINF:-1 tvg-id="89" tvg-name="Dreamworks TV | LAT" group-title="c.Novela-CATV",Dreamworks TV | LAT
-http://181.78.106.127:9000/play/ca054/index.m3u8
-
-#EXTINF:-1 tvg-id="90" tvg-name="FX | LAT" group-title="c.Novela-CATV",FX | LAT
-http://181.78.106.127:9000/play/ca075/index.m3u8
-
-#EXTINF:-1 tvg-id="91" tvg-name="HBO | LAT" group-title="c.Novela-CATV",HBO | LAT
-http://181.189.244.253:8000/play/a018/index.m3u8
-
-#EXTINF:-1 tvg-id="92" tvg-name="HBO 2 | LAT" group-title="c.Novela-CATV",HBO 2 | LAT
-http://181.189.244.253:8000/play/a019/index.m3u8
-
-#EXTINF:-1 tvg-id="93" tvg-name="HBO Family | LAT" group-title="c.Novela-CATV",HBO Family | LAT
-http://181.189.244.253:8000/play/a01b/index.m3u8
-
-#EXTINF:-1 tvg-id="94" tvg-name="HBO Xtreme | LAT" group-title="c.Novela-CATV",HBO Xtreme | LAT
-http://200.92.227.238:8000/play/a0mu/index.m3u8
-
-#EXTINF:-1 tvg-id="95" tvg-name="HBO+ | LAT" group-title="c.Novela-CATV",HBO+ | LAT
-http://181.189.244.253:8000/play/a01a/index.m3u8
-
-#EXTINF:-1 tvg-id="96" tvg-name="Paramount Network| LAT" group-title="c.Novela-CATV",Paramount Network| LAT
-http://179.51.136.19:8000/play/a1am/index.m3u8
-
-#EXTINF:-1 tvg-id="97" tvg-name="Sony Channel | LAT" group-title="c.Novela-CATV",Sony Channel | LAT
-http://179.51.136.19:8000/play/a1aa/index.m3u8
-
-#EXTINF:-1 tvg-id="98" tvg-name="Star Channel | LAT" group-title="c.Novela-CATV",Star Channel | LAT
-http://181.119.86.68:8000/play/b014/index.m3u8
-
-#EXTINF:-1 tvg-id="99" tvg-name="TNT | LAT" group-title="c.Novela-CATV",TNT | LAT
-http://179.51.136.19:8000/play/a1af/index.m3u8
-
-#EXTINF:-1 tvg-id="100" tvg-name="TNT Series | LAT" group-title="c.Novela-CATV",TNT Series | LAT
-http://179.51.136.19:8000/play/a1al/index.m3u8
-
-#EXTINF:-1 tvg-id="101" tvg-name="Universal Cinema | LAT" group-title="c.Novela-CATV",Universal Cinema | LAT
-http://181.78.106.127:9000/play/ca083/index.m3u8
-
-#EXTINF:-1 tvg-id="102" tvg-name="Universal Comedy | LAT" group-title="c.Novela-CATV",Universal Comedy | LAT
-http://45.71.254.1:8000/play/a0e4/index.m3u8
-
-#EXTINF:-1 tvg-id="103" tvg-name="Warner TV | LAT" group-title="c.Novela-CATV",Warner TV | LAT
-http://190.60.32.178:8178/play/a0az/index.m3u8
-
-#EXTINF:-1 tvg-id="104" tvg-name="Warner TV 2 | LAT" group-title="c.Novela-CATV",Warner TV 2 | LAT
-http://104.238.205.28:8989/278454_.m3u8
-
-#EXTINF:-1 tvg-id="105" tvg-name="Cine | LAT" group-title="c.Novela-CATV",Cine | LAT
-http://181.119.86.68:8000/play/b011/index.m3u8
-
-#EXTINF:-1 tvg-id="106" tvg-name="Cine Premium | LAT" group-title="c.Novela-CATV",Cine Premium | LAT
-http://190.60.32.178:8178/play/a07f/index.m3u8
-
-#EXTINF:-1 tvg-id="107" tvg-name="DHE | LAT" group-title="c.Novela-CATV",DHE | LAT
-http://181.119.86.68:8000/play/b006/index.m3u8
-
-#EXTINF:-1 tvg-id="108" tvg-name="FMH Family | LAT" group-title="c.Novela-CATV",FMH Family | LAT
-http://181.119.85.222:8000/play/a03e/index.m3u8
-
-#EXTINF:-1 tvg-id="109" tvg-name="FMH Kids | LAT" group-title="c.Novela-CATV",FMH Kids | LAT
+#EXTINF:-1 tvg-id="38" tvg-name="FMH Kids | LAT" group-title="b.Series-Peliculas",FMH Kids | LAT
 http://181.119.85.222:8000/play/a03a/index.m3u8
 
-#EXTINF:-1 tvg-id="110" tvg-name="FMH Movies | LAT" group-title="c.Novela-CATV",FMH Movies | LAT
+#EXTINF:-1 tvg-id="39" tvg-name="FMH Family | LAT" group-title="b.Series-Peliculas",FMH Family | LAT
+http://181.119.85.222:8000/play/a03e/index.m3u8
+
+#EXTINF:-1 tvg-id="40" tvg-name="FMH Movies | LAT" group-title="b.Series-Peliculas",FMH Movies | LAT
 http://181.119.85.222:8000/play/a03b/index.m3u8
+
+#EXTINF:-1 tvg-id="41" tvg-name="Wow Movies | LAT" group-title="b.Series-Peliculas",Wow Movies | LAT
+https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/chunks.m3u8
+
+#EXTINF:-1 tvg-id="42" tvg-name="Frecuencia Musical TV | LAT" group-title="b.Series-Peliculas",Frecuencia Musical TV | LAT
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=13014
+
+#EXTINF:-1 tvg-id="43" tvg-name="Cine Sony | LAT" group-title="b.Series-Peliculas",Cine Sony | LAT
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="Sony One Cinema | LAT | FHD" group-title="b.Series-Peliculas",Sony One Cinema | LAT | FHD
+https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="45" tvg-name="Sony Accion | ESP" group-title="b.Series-Peliculas",Sony Accion | ESP
+https://de9yx47crxs6l.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="46" tvg-name="USA TV Network | LAT" group-title="b.Series-Peliculas",USA TV Network | LAT
+http://103.111.40.242:9999/play/a04b/index.m3u8
+
+#EXTINF:-1 tvg-id="47" tvg-name="Cinema Platino | SUB" group-title="b.Series-Peliculas",Cinema Platino | SUB
+http://103.111.40.242:9999/play/a00x/index.m3u8
+
+#EXTINF:-1 tvg-id="48" tvg-name="New KMovies | SUB" group-title="b.Series-Peliculas",New KMovies | SUB
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=newkmovies&channel_id=newid_012&mpf=39aa2dab-39af1962-4de8e517&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=b649dc44-4adb999b-6ceb498a-3dab0337&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
+
+#EXTINF:-1 tvg-id="49" tvg-name="Rakuten TV Family Movies | ESP" group-title="b.Series-Peliculas",Rakuten TV Family Movies | ESP
+https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8
+
+#EXTINF:-1 tvg-id="50" tvg-name="Rakuten TV Action Movies | ESP" group-title="b.Series-Peliculas",Rakuten TV Action Movies | ESP
+https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
+
+#EXTINF:-1 tvg-id="51" tvg-name="Rakuten TV Top Movies | ESP" group-title="b.Series-Peliculas",Rakuten TV Top Movies | ESP
+https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
+
+#EXTINF:-1 tvg-id="52" tvg-name="Rakuten TV Comedy Movies | ESP" group-title="b.Series-Peliculas",Rakuten TV Comedy Movies | ESP
+https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8
+
+#EXTINF:-1 tvg-id="53" tvg-name="Rakuten TV Drama Movies | ESP" group-title="b.Series-Peliculas",Rakuten TV Drama Movies | ESP
+https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8
+
+#EXTINF:-1 tvg-id="54" tvg-name="Rakuten TV Romance Movies | ESP" group-title="b.Series-Peliculas",Rakuten TV Romance Movies | ESP
+https://4b95c0f7aa2b4cae80f6515600154151.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8
+
+#EXTINF:-1 tvg-id="55" tvg-name="Rakuten TV Cine | ESP" group-title="b.Series-Peliculas",Rakuten TV Cine | ESP
+https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8
+
+#EXTINF:-1 tvg-id="56" tvg-name="Rakuten TV Sci-Fi | ESP" group-title="b.Series-Peliculas",Rakuten TV Sci-Fi | ESP
+https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8
+
+#EXTINF:-1 tvg-id="57" tvg-name="Rakuten TV Thriller | ESP" group-title="b.Series-Peliculas",Rakuten TV Thriller | ESP
+https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8
+
+#EXTINF:-1 tvg-id="58" tvg-name="LG 1 | ESP" group-title="b.Series-Peliculas",LG 1 | ESP
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=12783&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
+
+#EXTINF:-1 tvg-id="59" tvg-name="LG 1: Film | ESP" group-title="b.Series-Peliculas",LG 1: Film | ESP
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13953&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
+
+#EXTINF:-1 tvg-id="60" tvg-name="LG 1: Spotlight | ESP" group-title="b.Series-Peliculas",LG 1: Spotlight | ESP
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13958&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
+
+#EXTINF:-1 tvg-id="61" tvg-name="AMC | LAT" group-title="b.Series-Peliculas",AMC | LAT
+https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="62" tvg-name="Electric Now | LAT" group-title="b.Series-Peliculas",Electric Now | LAT
+https://s8host2.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config10/playlist.m3u8?ads.cdnhost=s8host2.localnow.api.cms.amdvids.com&ads.playbackid=56D5091D-B42A-4A99-8C50-6DBF198F0C49&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=56D5091D-B42A-4A99-8C50-6DBF198F0C49&ads.n4=content_name&ads.v4=Electric%20Now%20en%20Espanol&ads.n21=h&ads.v21=1080&ads.n22=content_provider&ads.v22=electricnow-en-espanol&ads.n23=ua&ads.v23=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n24=content_type&ads.v24=channel&ads.n25=channel_rating&ads.v25=TV-PG&ads.n26=content_custom_2_param&ads.v26=AMDB013335&ads.n27=app_bundle&ads.v27=&ads.n28=content_livestream&ads.v28=1&ads.n29=device_model&ads.v29=&ads.n30=channel_corp&ads.v30=Electric%20Entertainment&ads.n31=app_store_url&ads.v31=&ads.n32=channel_id&ads.v32=56D5091D-B42A-4A99-8C50-6DBF198F0C49&ads.n33=cust_devicename&ads.v33=desktop_web&ads.n34=channel_brand_id&ads.v34=AMDB013335&ads.n35=w&ads.v35=1920&ads.n36=channel_company_id&ads.v36=AMDP500133&ads.n37=dnt&ads.v37=&ads.n38=channel_ext_id&ads.v38=&ads.n39=channel_language&ads.v39=es&ads.n40=device_make&ads.v40=&ads.n41=pos&ads.v41=midroll&ads.n42=app_version&ads.v42=0.0.0&ads.n43=device_type&ads.v43=&ads.n44=content_custom_3_param&ads.v44=channel&ads.n45=app_name&ads.v45=&ads.n46=ip&ads.v46=195.179.200.80&ads.n47=channel_title&ads.v47=Electric%20Now%20en%20Espanol&ads.n48=content_custom_1_param&ads.v48=56D5091D-B42A-4A99-8C50-6DBF198F0C49&ads.n49=gpp&ads.v49=&ads.n50=gpp_sid&ads.v50=&ads.n51=channel_genre&ads.v51=Entertainment&ads.n52=ifa_type&ads.v52=&ads.n53=us_privacy&ads.v53=1YNY&ads.n54=network_name&ads.v54=electricnow-en-espanol&ads.n55=did&ads.v55=&ads.n56=channel_name&ads.v56=Electric%20Now%20en%20Espanol&ads.n57=content_producer_name&ads.v57=Electric%20Entertainment&ads.n58=url&ads.v58=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal
+
+#EXTINF:-1 tvg-id="63" tvg-name="Xumo | LAT" group-title="b.Series-Peliculas",Xumo | LAT
+https://d6b383jzkrtyn.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992262&ads.caid=PeliculasGratis&ads.csid=lgchannels_[COUNTRY]_XumoPeliculasGratis_ssai&ads.lat=&ads.lon=&ads.os=webOS&ads.osv=&ads.xumo_platform=lg&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_content_category=IAB1-7&ads._fw_content_genre=Movies&ads._fw_content_language=es&ads._fw_content_rating=TV-PG&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_gdpr=[GDPR]&ads._fw_gdpr_consent=[GDPR_CONSENT]&ads._fw_h_x_country=[COUNTRY]&ads.appName=[APP_NAME]&ads.xumo_contentId=5&ads.xumo_contentName=XumoAggregate&ads.xumo_providerId=5&ads.xumo_providerName=XumoAggregate&ads.channelId=99992262&ads.xumo_imdb_genre=Action%252CAdventure%252CComedy%252CCrime%252CDrama%252CFamily%252CFantasy%252CHorror%252CMystery%252CRomance%252CSci-Fi%252CThriller%252CWar%252CWestern%252CSuperhero&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_app_bundle=[APP_BUNDLE]&ads.appVersion=[APP_VERSION]&ads.amznappId=61009c470a264b7c8322f1c45792cc5c&ads.amznslotId=9c67d46e-238a-49e6-a34f-f50fe8eed913&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
+
+#EXTINF:-1 tvg-id="64" tvg-name="Zylo Cine Friki | ESP" group-title="b.Series-Peliculas",Zylo Cine Friki | ESP
+https://zylo-cinefriki-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="65" tvg-name="Cindie | SUB" group-title="b.Series-Peliculas",Cindie | SUB
+https://d20xuwbyc4yoag.cloudfront.net/scheduler/scheduleMaster/387.m3u8
+
+#EXTINF:-1 tvg-id="66" tvg-name="MyTime | ESP" group-title="b.Series-Peliculas",MyTime | ESP
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="67" tvg-name="Runtime | LAT" group-title="b.Series-Peliculas",Runtime | LAT
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13231&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
+
+#EXTINF:-1 tvg-id="68" tvg-name="ArtFlix | LAT" group-title="b.Series-Peliculas",ArtFlix | LAT
+https://amogonetworx-artflix-3-mx.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="69" tvg-name="FilmRise | LAT" group-title="b.Series-Peliculas",FilmRise | LAT
+https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889309
+
+#EXTINF:-1 tvg-id="70" tvg-name="Butaca TV | LAT" group-title="b.Series-Peliculas",Butaca TV | LAT
+https://linear-842.frequency.stream/dist/tcltv/842/hls/master/playlist.m3u8?ads.dnt=DNT&ads.ic=IC&ads.duration=DURATION&ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.device_id=DID&ads.device_make=DEVICE_MAKE&ads.device_model=DEVICE_MODEL&ads.brand_name=BRAND_NAME&ads.ifa_type=IFA_TYPE&ads.gdpr_consent=GDPR_CONSENT&ads.gdpr=GDPR&ads.us_privacy=US_PRIVACY&ads.coppa=COPPA&ads.lmt=LMT&ads.gpp_sid=GPP_SID&ads.gpp=GPP&ads.csid=CSID
+
+#EXTINF:-1 tvg-id="71" tvg-name="Extrema TV | LAT" group-title="b.Series-Peliculas",Extrema TV | LAT
+https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="72" tvg-name="CineCanal | LAT" group-title="b.Series-Peliculas",CineCanal | LAT
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
+
+#EXTINF:-1 tvg-id="73" tvg-name="+Cine | LAT" group-title="b.Series-Peliculas",+Cine | LAT
+https://atresmedia-ceries-1-us.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="74" tvg-name="Big Time | LAT" group-title="b.Series-Peliculas",Big Time | LAT
+https://amogonetworx-bigtjme-2-mx.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="75" tvg-name="LifeTime | LAT" group-title="b.Series-Peliculas",LifeTime | LAT
+http://103.111.40.242:9999/play/a049/index.m3u8
+
+#EXTINF:-1 tvg-id="76" tvg-name="Spark TV 1 | LAT" group-title="b.Series-Peliculas",Spark TV 1 | LAT
+https://candlelightmedia-sparklightlove-2-mx.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="77" tvg-name="Spark TV 2 | LAT" group-title="b.Series-Peliculas",Spark TV 2 | LAT
+https://68fa646cfc3f456983d7e97be9b62c64.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG-mx_SparkTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="78" tvg-name="Rakuten Viki | SUB" group-title="c.Novela-CATV",Rakuten Viki | SUB
+https://220f14502d694f3cb7f6a078aeaa4147.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-mx_RakutenViki/playlist.m3u8
+
+#EXTINF:-1 tvg-id="79" tvg-name="K-Drama by MBC | LAT" group-title="c.Novela-CATV",K-Drama by MBC | LAT
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=k-dramabymbc&channel_id=newid_337&mpf=79b005ff-39af1962-c7319ae1&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=5dfff943-067be473-85f3955b-710b7edf&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
+
+#EXTINF:-1 tvg-id="80" tvg-name="ROMCOM K-Drama | LAT" group-title="c.Novela-CATV",ROMCOM K-Drama | LAT
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=romcomk-drama&channel_id=newid_232&mpf=08189b47-39af1962-368759c4&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=7e44fa59-d887b105-7d1f1344-aff72ba9&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
+
+#EXTINF:-1 tvg-id="81" tvg-name="Vive Kanal D Drama | LAT" group-title="c.Novela-CATV",Vive Kanal D Drama | LAT
+https://thema-vivekanald-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="82" tvg-name="Zee Mundo | LAT" group-title="c.Novela-CATV",Zee Mundo | LAT
+https://amg17931-amg17931c3-ondemandkorea-amesia-4897.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeemundo-ondemandkoreaamesia/playlist.m3u8?app_name=AmasianTV&app_store_url=https%3A%2F%2Famasian.tv&genre=Television&ic=IAB1-7&us_privacy=1---&
+
+#EXTINF:-1 tvg-id="83" tvg-name="RCN Novelas | LAT" group-title="c.Novela-CATV",RCN Novelas | LAT
+http://103.111.40.242:9999/play/a03k/index.m3u8
+
+#EXTINF:-1 tvg-id="84" tvg-name="TNT Novelas | LAT" group-title="c.Novela-CATV",TNT Novelas | LAT
+http://200.115.96.66:4000/play/a01p/index.m3u8
+
+#EXTINF:-1 tvg-id="85" tvg-name="El 5 | LAT" group-title="c.Novela-CATV",El 5 | LAT
+http://104.238.205.28:8989/278330_.m3u8
+
+#EXTINF:-1 tvg-id="86" tvg-name="5 Chiva TV | LAT" group-title="c.Novela-CATV",5 Chiva TV | LAT
+http://181.78.106.127:9000/play/ca005/index.m3u8
+
+#EXTINF:-1 tvg-id="87" tvg-name="Studio Universal | LAT" group-title="c.Novela-CATV",Studio Universal | LAT
+http://103.111.40.242:9999/play/a020/index.m3u8
+
+#EXTINF:-1 tvg-id="88" tvg-name="Universal TV | LAT" group-title="c.Novela-CATV",Universal TV | LAT
+http://103.111.40.242:9999/play/a047/index.m3u8
+
+#EXTINF:-1 tvg-id="89" tvg-name="AXN | LAT" group-title="c.Novela-CATV",AXN | LAT
+http://104.238.205.28:8989/278385_.m3u8
+
+#EXTINF:-1 tvg-id="90" tvg-name="AXN 2 | LAT" group-title="c.Novela-CATV",AXN 2 | LAT
+http://181.78.106.127:9000/play/ca085/index.m3u8
+
+#EXTINF:-1 tvg-id="91" tvg-name="CineMax | LAT" group-title="c.Novela-CATV",CineMax | LAT
+http://181.78.106.127:9000/play/ca079/index.m3u8
+
+#EXTINF:-1 tvg-id="92" tvg-name="Dreamworks TV | LAT" group-title="c.Novela-CATV",Dreamworks TV | LAT
+http://181.78.106.127:9000/play/ca054/index.m3u8
+
+#EXTINF:-1 tvg-id="93" tvg-name="FX | LAT" group-title="c.Novela-CATV",FX | LAT
+http://181.78.106.127:9000/play/ca075/index.m3u8
+
+#EXTINF:-1 tvg-id="94" tvg-name="HBO | LAT" group-title="c.Novela-CATV",HBO | LAT
+http://181.189.244.253:8000/play/a018/index.m3u8
+
+#EXTINF:-1 tvg-id="95" tvg-name="HBO 2 | LAT" group-title="c.Novela-CATV",HBO 2 | LAT
+http://181.189.244.253:8000/play/a019/index.m3u8
+
+#EXTINF:-1 tvg-id="96" tvg-name="HBO Family | LAT" group-title="c.Novela-CATV",HBO Family | LAT
+http://181.189.244.253:8000/play/a01b/index.m3u8
+
+#EXTINF:-1 tvg-id="97" tvg-name="HBO Xtreme | LAT" group-title="c.Novela-CATV",HBO Xtreme | LAT
+http://200.92.227.238:8000/play/a0mu/index.m3u8
+
+#EXTINF:-1 tvg-id="98" tvg-name="HBO+ | LAT" group-title="c.Novela-CATV",HBO+ | LAT
+http://181.189.244.253:8000/play/a01a/index.m3u8
+
+#EXTINF:-1 tvg-id="99" tvg-name="Paramount Network | LAT" group-title="c.Novela-CATV",Paramount Network | LAT
+http://179.51.136.19:8000/play/a1am/index.m3u8
+
+#EXTINF:-1 tvg-id="100" tvg-name="Sony Channel | LAT" group-title="c.Novela-CATV",Sony Channel | LAT
+http://179.51.136.19:8000/play/a1aa/index.m3u8
+
+#EXTINF:-1 tvg-id="101" tvg-name="Star Channel | LAT" group-title="c.Novela-CATV",Star Channel | LAT
+http://181.119.86.68:8000/play/b014/index.m3u8
+
+#EXTINF:-1 tvg-id="102" tvg-name="TNT | LAT" group-title="c.Novela-CATV",TNT | LAT
+http://179.51.136.19:8000/play/a1af/index.m3u8
+
+#EXTINF:-1 tvg-id="103" tvg-name="TNT Series | LAT" group-title="c.Novela-CATV",TNT Series | LAT
+http://179.51.136.19:8000/play/a1al/index.m3u8
+
+#EXTINF:-1 tvg-id="104" tvg-name="Universal Cinema | LAT" group-title="c.Novela-CATV",Universal Cinema | LAT
+http://181.78.106.127:9000/play/ca083/index.m3u8
+
+#EXTINF:-1 tvg-id="105" tvg-name="Universal Comedy | LAT" group-title="c.Novela-CATV",Universal Comedy | LAT
+http://45.71.254.1:8000/play/a0e4/index.m3u8
+
+#EXTINF:-1 tvg-id="106" tvg-name="Warner TV | LAT" group-title="c.Novela-CATV",Warner TV | LAT
+http://190.60.32.178:8178/play/a0az/index.m3u8
+
+#EXTINF:-1 tvg-id="107" tvg-name="Warner TV 2 | LAT" group-title="c.Novela-CATV",Warner TV 2 | LAT
+http://104.238.205.28:8989/278454_.m3u8
+
+#EXTINF:-1 tvg-id="108" tvg-name="Cine | LAT" group-title="c.Novela-CATV",Cine | LAT
+http://181.119.86.68:8000/play/b011/index.m3u8
+
+#EXTINF:-1 tvg-id="109" tvg-name="Cine Premium | LAT" group-title="c.Novela-CATV",Cine Premium | LAT
+http://190.60.32.178:8178/play/a07f/index.m3u8
+
+#EXTINF:-1 tvg-id="110" tvg-name="DHE | LAT" group-title="c.Novela-CATV",DHE | LAT
+http://181.119.86.68:8000/play/b006/index.m3u8
 
 #EXTINF:-1 tvg-id="111" tvg-name="Golden | LAT" group-title="c.Novela-CATV",Golden | LAT
 http://181.119.86.68:8000/play/b038/index.m3u8
