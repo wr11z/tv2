@@ -84,7 +84,7 @@ http://45.173.201.51:4000/play/a01e/index.m3u8
 http://170.254.229.225:8000/play/a05m/index.m3u8
 
 #EXTINF:-1 tvg-id="29" tvg-name="ToonCast | LAT" group-title="a.Animacion",ToonCast | LAT
-http://170.254.229.225:8000/play/a05l/index.m3u8
+http://179.1.146.22:8000/play/a0i6/index.m3u8
 
 #EXTINF:-1 tvg-id="30" tvg-name="Disney Channel | LAT" group-title="a.Animacion",Disney Channel | LAT
 http://190.187.200.244:8000/play/a0tc/index.m3u8
